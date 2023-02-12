@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yuzhi Zhao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Ph.D., [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) <br>
 
-A data-driven personal website
+**Research Interests**
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Dr. Zhao's research interests lie in computer vision and deep learning, mainly including low-level vision, computational photography, generative models, and representation learning. Recently, I mainly focus on the applications of diffusion models. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+**Short Bio**
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Dr. Zhao received his Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in March 2023. He received his B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), June 2018. <br/>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+His first-author works in terms of low-level vision and generative models are widely published in international flagship conferences and journals. He has been also nominated as a reviewer for many international conferences and journals. <br/>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+He has interned at [SenseTime AI Imaging Group](https://www.sensetime.com/cn) and [Tencent Lightspeed Studios](https://www.lightspeed-studios.com/), as a research intern working on computer vision projects and research. You can find his developed open-sourced projects on his [Github Project Page](https://github.com/zhaoyuzhi). <br/>
 
-**Markdown generator**
+**Selected Publication**
+======
+**Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, and Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. ECCV, 2022 ([PDF](../files/2022-D2HNet-Joint-Denoising-and-Deblurring-with-Hierarchical-Network-for-Robust-Night-Image-Restoration)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code/Dataset](https://github.com/zhaoyuzhi/D2HNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/pdf/2207.03294.pdf)) <br/>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. IEEE Transactions on Multimedia, 2022 ([PDF](../files/2022-ChildPredictor-A-Child-Face-Prediction-Framework-with-Disentangled-Learning.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code/Dataset](https://github.com/zhaoyuzhi/ChildPredictor)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9749880))
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Yuzhi Zhao**, Lai-Man Po, Wing-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. IEEE Transactions on Multimedia, 2022 ([PDF](../files/2022-VCGAN-Video-Colorization-with-Hybrid-Generative-Adversarial-Network.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/VCGAN)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/abstract/document/9721653))
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020 ([PDF](../files/2020-SCGAN-Saliency-Map-guided-Colorization-with-Generative-Adversarial-Network.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257445))
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Major Revision of IEEE Transactions on Image Processing
+
+**Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Qiong Yan, Wei Liu, Pengfei Xian. <font color='Navy'>HSGAN: Hyperspectral Reconstruction from RGB Images with Generative Adversarial Network</font>. Under Major Revision of IEEE Transactions on Neural Networks and Learning Systems (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/HSGAN))
+
+**Yuzhi Zhao**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Joint Image Deblurring and Denoising with Dual-exposure Quad-Bayer Sensors</font>. Under Review of IEEE Transactions on Image Processing (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet))
+
+**Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. CVPR Workshops, 2020 (CVPR NTIRE Workshop) ([PDF](../files/2020-Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images)) ([Poster](https://github.com/zhaoyuzhi/Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images/blob/master/img/poster.png)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Zhao_Hierarchical_Regression_Network_for_Spectral_Reconstruction_From_RGB_Images_CVPRW_2020_paper.pdf))
+
+Kangcheng Liu, **Yuzhi Zhao**, Qiang Nie, Zhi Gao, and Ben M. Chen. <font color='Navy'>Weakly Supervised 3D Scene Segmentation with Region-Level Boundary Awareness and Instance Discrimination</font>. ECCV, 2022 ([PDF](../files/2022-Weakly-Supervised-3D-Scene-Segmentation-with-Region-Level-Boundary-Awareness-and-Instance-Discrimination.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/Smart-Robotics-Scientist/Weakly-Supervised-3D)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf))
+
+Yujia Zhang, Lai-Man Po, Xuyuan Xu, Mengyang Liu, Yexin Wang, Weifeng Ou, **Yuzhi Zhao**, Wing-Yin Yu. <font color='Navy'>Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation</font>. AAAI, 2022 ([PDF](2022-Contrastive-Spatio-Temporal-Pretext-Learning-for-Self-supervised-Video-Representation)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/KT27-A/CSTP)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ojs.aaai.org/index.php/AAAI/article/view/20248))
+
+Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. IEEE Transactions on Image Processing, 2022 ([PDF](../files/2022-ShaTure-Shape-and-Texture-Deformation-for-Human-Pose-and-Attribute-Transfer.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9733197))
+
+**AI Competitions**
+======
+1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
+
+4th Place in AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
