@@ -12,15 +12,15 @@ Ph.D., [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [Ci
 
 **Research Interests**
 ======
-Dr. Zhao's research interests lie in computer vision and deep learning, mainly including low-level vision, computational photography, generative models, and representation learning. Recently, I mainly focus on the applications of diffusion models. 
+Dr. Zhao's research interests lie in computer vision and deep learning, mainly including low-level vision, computational photography, generative models, and representation learning. Recently, he mainly focuses on applications of diffusion models. 
 
 **Short Bio**
 ======
-Dr. Zhao received his Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in March 2023. He received his B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), June 2018. <br/>
+Dr. Zhao received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023. He received the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), June 2018. <br/>
 
-His first-author works in terms of low-level vision and generative models are widely published in international flagship conferences and journals. He has been also nominated as a reviewer for many international conferences and journals. <br/>
+His first-author works in terms of low-level vision applications and generative models are widely published in international flagship conferences and journals. He has been also nominated as a reviewer for many international conferences and journals. <br/>
 
-He has interned at [SenseTime AI Imaging Group](https://www.sensetime.com/cn) and [Tencent Lightspeed Studios](https://www.lightspeed-studios.com/), as a research intern working on computer vision projects and research. You can find his developed open-sourced projects on his [Github Project Page](https://github.com/zhaoyuzhi). <br/>
+He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn) and [Lightspeed Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on computer vision projects and research. You can find his developed open-sourced projects on his [Github Project Page](https://github.com/zhaoyuzhi). <br/>
 
 **Selected Publication**
 ======
@@ -46,8 +46,18 @@ Yujia Zhang, Lai-Man Po, Xuyuan Xu, Mengyang Liu, Yexin Wang, Weifeng Ou, **Yuzh
 
 Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. IEEE Transactions on Image Processing, 2022 ([PDF](../files/2022-ShaTure-Shape-and-Texture-Deformation-for-Human-Pose-and-Attribute-Transfer.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9733197))
 
-**AI Competitions**
+**Honor**
 ======
 1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
 4th Place in AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
+
+Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
+
+Postgraduate Scholarship, City University of Hong Kong, 2018
+
+Excellent Graduate, Huazhong University of Science and Technology, 2018
+
+Outstanding Student Leader Scholarship, Huazhong University of Science and Technology, 2015
+
+Academic Progress Scholarship, Huazhong University of Science and Technology, 2015
