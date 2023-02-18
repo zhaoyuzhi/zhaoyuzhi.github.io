@@ -10,7 +10,7 @@ redirect_from:
 
 教育经历
 ======
-* 2018.09 - 2023.03 博士研究生, 电子工程系, **香港城市大学**. <br>
+* 2018.09 - 2023.02 博士研究生, 电子工程系, **香港城市大学**. <br>
 &ensp;&ensp;&ensp;(指导老师: [Lai-Man Po 教授](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
 * 2014.09 - 2018.06 工学学士. 电子信息与通信学院, **华中科技大学**. <br>
 &ensp;&ensp;&ensp;(启明学院电信卓越班, 指导老师: [Xiaojun Hei 教授](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
@@ -87,7 +87,7 @@ M奖, 美国大学生数学建模竞赛, 2018
 
 学术服务
 ======
-审稿人: CVPR, ICCV, ECCV, ICIP, ICASSP, WACV, VCIP, ACCV, etc.
+审稿人: CVPR, ICCV, ECCV, ICIP, ICME, ICASSP, WACV, VCIP, ACCV, etc.
 
 审稿人: IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Knowledge-based Systems, etc.
 

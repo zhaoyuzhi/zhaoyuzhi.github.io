@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* 2018.09 - 2023.03 Ph.D. in Electronic Engineering, **City University of Hong Kong**. <br>
+* 2018.09 - 2023.02 Ph.D. in Electronic Engineering, **City University of Hong Kong**. <br>
 &ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
 * 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
 &ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
@@ -87,7 +87,7 @@ Academic Progress Scholarship, Huazhong University of Science and Technology, 20
 
 Acdemic Service
 ======
-Reviewer for: CVPR, ICCV, ECCV, ICIP, ICASSP, WACV, VCIP, ACCV, etc.
+Reviewer for: CVPR, ICCV, ECCV, ICIP, ICME, ICASSP, WACV, VCIP, ACCV, etc.
 
 Reviewer for: IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Knowledge-based Systems, etc.
 
