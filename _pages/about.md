@@ -18,9 +18,9 @@ Dr. Zhao's research interests lie in computer vision and deep learning, mainly i
 ======
 Dr. Zhao received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023. He received the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), June 2018. <br/>
 
-His first-author works in terms of low-level vision applications and generative models are widely published in international flagship conferences and journals. He has been also nominated as a reviewer for many international conferences and journals. <br/>
+His first-author works in terms of low-level vision applications and generative models are widely published in international conferences and journals. He has been also nominated as a reviewer for many international flagship conferences and journals. He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn) and [Lightspeed Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on computer vision projects and research. <br/>
 
-He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn) and [Lightspeed Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on computer vision projects and research. You can find his developed open-sourced projects on his [Github Project Page](https://github.com/zhaoyuzhi). <br/>
+He has collected the largest joint deblurring and denoising dataset [D2-Dataset](https://github.com/zhaoyuzhi/D2HNet), one-of-the-largest kinship verification and generation dataset [FF-Database](https://github.com/zhaoyuzhi/ChildPredictor), a legacy photo dataset [LP Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior), and the largest Quad-Bayer to RGB mapping dataset. You can find his developed open-sourced projects on his [Github Project Page](https://github.com/zhaoyuzhi). <br/>
 
 **Selected Publication**
 ======
