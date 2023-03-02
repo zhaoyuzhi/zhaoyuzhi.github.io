@@ -3,17 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
-
   - title: "Teaching"
     url: /teaching/
     
-#   - title: "Portfolio"
-#     url: /portfolio/
+  - title: "Service"
+    url: /service/
+    
+#  - title: "Talks"
+#    url: /talks/
+
+#  - title: "Portfolio"
+#    url: /portfolio/
         
-#   - title: "Blog Posts"
-#     url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/
@@ -21,11 +24,11 @@ main:
   - title: "中文简历"
     url: /cv_cn/
     
-#   - title: "Software"
-#     url: /software/
+#  - title: "Software"
+#    url: /software/
     
-#   - title: "Link"
-#     url: /link/
+#  - title: "Link"
+#    url: /link/
     
-#   - title: "Guide"
-#     url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/

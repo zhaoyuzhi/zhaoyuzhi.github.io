@@ -18,7 +18,7 @@ Dr. Zhao's research interests lie in computer vision and deep learning, mainly i
 ======
 Dr. Zhao received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023. He received the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), June 2018. <br/>
 
-His first-author works in terms of low-level vision applications and generative models are widely published in international conferences and journals. He has been also nominated as a reviewer for many international flagship conferences and journals. He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn) and [Lightspeed Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on computer vision projects and research. <br/>
+His first-author works in terms of low-level vision applications and generative models are widely published in international conferences and journals. He has been also nominated as a reviewer for many international flagship conferences and journals. He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn) and [Lightspeed Studios R&D, Tencent IEG](https://www.lightspeed-studios.com/), working on computer vision projects and research. <br/>
 
 He has collected the largest joint deblurring and denoising dataset [D2-Dataset](https://github.com/zhaoyuzhi/D2HNet), one-of-the-largest kinship verification and generation dataset [FF-Database](https://github.com/zhaoyuzhi/ChildPredictor), a legacy photo dataset [LP Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior), and the largest Quad-Bayer to RGB mapping dataset. You can find his developed open-sourced projects on his [Github Project Page](https://github.com/zhaoyuzhi). <br/>
 
@@ -45,19 +45,3 @@ Kangcheng Liu, **Yuzhi Zhao**, Qiang Nie, Zhi Gao, and Ben M. Chen. <font color=
 Yujia Zhang, Lai-Man Po, Xuyuan Xu, Mengyang Liu, Yexin Wang, Weifeng Ou, **Yuzhi Zhao**, Wing-Yin Yu. <font color='Navy'>Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation</font>. AAAI, 2022 ([PDF](2022-Contrastive-Spatio-Temporal-Pretext-Learning-for-Self-supervised-Video-Representation)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/KT27-A/CSTP)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ojs.aaai.org/index.php/AAAI/article/view/20248))
 
 Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. IEEE Transactions on Image Processing, 2022 ([PDF](../files/2022-ShaTure-Shape-and-Texture-Deformation-for-Human-Pose-and-Attribute-Transfer.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9733197))
-
-**Honor**
-======
-1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
-
-4th Place in AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
-
-Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
-
-Postgraduate Scholarship, City University of Hong Kong, 2018
-
-Excellent Graduate, Huazhong University of Science and Technology, 2018
-
-Outstanding Student Leader Scholarship, Huazhong University of Science and Technology, 2015
-
-Academic Progress Scholarship, Huazhong University of Science and Technology, 2015

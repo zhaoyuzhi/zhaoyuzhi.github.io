@@ -85,12 +85,6 @@ Outstanding Student Leader Scholarship, Huazhong University of Science and Techn
 
 Academic Progress Scholarship, Huazhong University of Science and Technology, 2015
 
-Acdemic Service
-======
-Reviewer for: CVPR, ICCV, ECCV, ICIP, ICME, ICASSP, WACV, VCIP, ACCV, etc.
-
-Reviewer for: IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Knowledge-based Systems, etc.
-
 Extracurricular Activity
 ======
 President, Bicycle Association, Huazhong University of Science and Technology, 2015.5 - 2016.5

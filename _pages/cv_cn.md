@@ -85,12 +85,6 @@ M奖, 美国大学生数学建模竞赛, 2018
 
 学业奖学金, 华中科技大学, 2015
 
-学术服务
-======
-审稿人: CVPR, ICCV, ECCV, ICIP, ICME, ICASSP, WACV, VCIP, ACCV, etc.
-
-审稿人: IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Knowledge-based Systems, etc.
-
 课外活动
 ======
 自行车协会会长, 华中科技大学, 2015.5 - 2016.5
