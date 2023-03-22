@@ -8,23 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D., [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) <br>
+Ph.D., [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/)
+
+<font color='Red'>I will join Huawei soon and I am not open to new jobs!</font>
 
 **Research Interests**
 ======
-Dr. Zhao's research interests lie in computer vision and deep learning, mainly including low-level vision, computational photography, generative models, and representation learning. Recently, he mainly focuses on applications of diffusion models. 
+Dr. Zhao's research interests lie in computer vision and deep learning, mainly including low-level vision, computational photography, generative models, and representation learning. Recently, he mainly focuses on applications of diffusion models.
 
 **Short Bio**
 ======
-Dr. Zhao received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023. He received the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), June 2018. <br/>
+Dr. Zhao received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023. He received the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), June 2018.
 
-His first-author works in terms of low-level vision applications and generative models are widely published in international conferences and journals. He has been also nominated as a reviewer for many international flagship conferences and journals. He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn) and [Lightspeed Studios R&D, Tencent IEG](https://www.lightspeed-studios.com/), working on computer vision projects and research. <br/>
+He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn) and [Lightspeed and Quantum Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on computer vision research and development. He has been also nominated as a reviewer for many international flagship conferences and journals such as CVPR, ICCV, ECCV, and several IEEE Transactions.
 
-He has collected the largest joint deblurring and denoising dataset [D2-Dataset](https://github.com/zhaoyuzhi/D2HNet), one-of-the-largest kinship verification and generation dataset [FF-Database](https://github.com/zhaoyuzhi/ChildPredictor), a legacy photo dataset [LP Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior), and the largest Quad-Bayer to RGB mapping dataset. You can find his developed open-sourced projects on his [Github Project Page](https://github.com/zhaoyuzhi). <br/>
+He has collected the largest joint deblurring and denoising dataset [D2-Dataset](https://github.com/zhaoyuzhi/D2HNet), one-of-the-largest kinship verification and generation dataset [FF-Database](https://github.com/zhaoyuzhi/ChildPredictor), a legacy photo dataset [LP Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior), and the largest Quad-Bayer to RGB mapping dataset. You can find his developed open-sourced projects on his [GitHub Project Page](https://github.com/zhaoyuzhi).
 
 **Selected Publication**
 ======
-**Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, and Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. ECCV, 2022 ([PDF](../files/2022-D2HNet-Joint-Denoising-and-Deblurring-with-Hierarchical-Network-for-Robust-Night-Image-Restoration)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code/Dataset](https://github.com/zhaoyuzhi/D2HNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/pdf/2207.03294.pdf)) <br/>
+**Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, and Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. ECCV, 2022 ([PDF](../files/2022-D2HNet-Joint-Denoising-and-Deblurring-with-Hierarchical-Network-for-Robust-Night-Image-Restoration)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code/Dataset](https://github.com/zhaoyuzhi/D2HNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/pdf/2207.03294.pdf))
 
 **Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. IEEE Transactions on Multimedia, 2022 ([PDF](../files/2022-ChildPredictor-A-Child-Face-Prediction-Framework-with-Disentangled-Learning.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code/Dataset](https://github.com/zhaoyuzhi/ChildPredictor)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9749880))
 

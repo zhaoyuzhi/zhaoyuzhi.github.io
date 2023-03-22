@@ -24,7 +24,9 @@ Knowledge-based Systems, etc.
 **Talks**
 ======
 
-Image Colorization with Saliency Map Guidance, City University of Hong Kong, 2021.2.5 ([PDF](../talks/20210205_SGGAN))
+Applications and Future of Deep Learning in Image and Video Colorization, Baidu Inc., 2023.3
+
+Image Colorization with Saliency Map Guidance, City University of Hong Kong, 2021.2 ([PDF](../talks/20210205_SGGAN))
 
 RAW to RGB Mapping with Saliency Map Guidance, Hong Kong Science Park, 2019.10
 
