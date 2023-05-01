@@ -10,10 +10,19 @@ redirect_from:
 
 教育经历
 ======
-* 2018.09 - 2023.02 博士研究生, 电子工程系, **香港城市大学**. <br>
-&ensp;&ensp;&ensp;(指导老师: [Lai-Man Po 教授](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
-* 2014.09 - 2018.06 工学学士. 电子信息与通信学院, **华中科技大学**. <br>
-&ensp;&ensp;&ensp;(启明学院电信卓越班, 指导老师: [Xiaojun Hei 教授](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
+2018.09 - 2023.02, 哲学博士, **香港城市大学** 电子工程系 <br>
+(指导老师: [布礼文教授](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
+
+2014.09 - 2018.06, 工学学士, **华中科技大学** 电子信息与通信学院 <br>
+(启明学院电信卓越班, 指导老师: [黑晓军教授](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
+
+实习经历
+======
+2023.01 - 2023.03, 算法实习生, 腾讯 互动娱乐事业群 光子技术中心, 深圳
+
+before 2023, 计算机视觉算法实习生, 商汤科技 计算成像组, 深圳
+
+2016.07 - 2016.08, 暑期实习生, 德州仪器, 上海
 
 论文
 ======
@@ -76,8 +85,6 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 第四名, AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
 
 M奖, 美国大学生数学建模竞赛, 2018
-
-全奖博士生, 香港城市大学, 2018
 
 优秀毕业生, 华中科技大学, 2018
 

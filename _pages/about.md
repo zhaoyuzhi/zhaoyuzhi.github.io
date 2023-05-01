@@ -10,7 +10,7 @@ redirect_from:
 
 Ph.D., [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/)
 
-<font color='Red'>I will join Huawei soon and I am not open to new jobs!</font>
+<font color='Red'>I am open to new jobs.</font>
 
 **Research Interests**
 ======

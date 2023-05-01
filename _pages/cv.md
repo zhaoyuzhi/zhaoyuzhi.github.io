@@ -10,10 +10,19 @@ redirect_from:
 
 Education
 ======
-* 2018.09 - 2023.02 Ph.D. in Electronic Engineering, **City University of Hong Kong**. <br>
+2018.09 - 2023.02, Ph.D. in Electronic Engineering, **City University of Hong Kong** <br>
 &ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
-* 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
+
+2014.09 - 2018.06, B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology** <br>
 &ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
+
+Internship
+======
+2023.01 - 2023.03, Research Intern, Lightspeed and Quantum Studios, Tencent IEG, Shenzhen
+
+before 2023, Research Intern, AI Imaging Group, SenseTime, Shenzhen
+
+2016.07 - 2016.08, Summer Intern, Texas Instruments, Shanghai
 
 Publication
 ======
@@ -76,8 +85,6 @@ Honor
 4th Place in AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
 
 Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
-
-Postgraduate Scholarship, City University of Hong Kong, 2018
 
 Excellent Graduate, Huazhong University of Science and Technology, 2018
 
