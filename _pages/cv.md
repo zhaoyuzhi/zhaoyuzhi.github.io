@@ -16,11 +16,15 @@ Education
 2014.09 - 2018.06, B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology** <br>
 &ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
 
-Internship
+Working Experiences
+======
+2023.04 - now, Research Engineer, Huawei Hong Kong Research Center, Hong Kong
+
+Intern Experiences
 ======
 2023.01 - 2023.03, Research Intern, Lightspeed and Quantum Studios, Tencent IEG, Shenzhen
 
-before 2023, Research Intern, AI Imaging Group, SenseTime, Shenzhen
+before 2022, Research Intern, AI Imaging Group, SenseTime, Shenzhen
 
 2016.07 - 2016.08, Summer Intern, Texas Instruments, Shanghai
 
@@ -32,7 +36,7 @@ Publication
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020
 
-**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Major Revision of IEEE Transactions on Image Processing
+**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Minor Revision of IEEE Transactions on Image Processing
 
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Qiong Yan, Wei Liu, Pengfei Xian. <font color='Navy'>HSGAN: Hyperspectral Reconstruction from RGB Images with Generative Adversarial Network</font>. Under Major Revision of IEEE Transactions on Neural Networks and Learning Systems
 
@@ -78,7 +82,7 @@ Patents
 
 Yongzhe Xu, **Yuzhi Zhao**, Qiong Yan, Dingdong Yang. <font color='Navy'>An image deblurring technology based on fusion of long- and short-exposure images</font>. CN Patent
 
-Honor
+Honor and Awards
 ======
 1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 

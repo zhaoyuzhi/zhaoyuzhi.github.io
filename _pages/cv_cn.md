@@ -16,11 +16,15 @@ redirect_from:
 2014.09 - 2018.06, 工学学士, **华中科技大学** 电子信息与通信学院 <br>
 (启明学院电信卓越班, 指导老师: [黑晓军教授](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
 
+工作经历
+======
+2023.04 - now, 研究工程师, 华为香港研究所, 香港
+
 实习经历
 ======
 2023.01 - 2023.03, 算法实习生, 腾讯 互动娱乐事业群 光子技术中心, 深圳
 
-before 2023, 计算机视觉算法实习生, 商汤科技 计算成像组, 深圳
+before 2022, 计算机视觉算法实习生, 商汤科技 计算成像组, 深圳
 
 2016.07 - 2016.08, 暑期实习生, 德州仪器, 上海
 
@@ -32,7 +36,7 @@ before 2023, 计算机视觉算法实习生, 商汤科技 计算成像组, 深�
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020
 
-**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Major Revision of IEEE Transactions on Image Processing
+**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Minor Revision of IEEE Transactions on Image Processing
 
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Qiong Yan, Wei Liu, Pengfei Xian. <font color='Navy'>HSGAN: Hyperspectral Reconstruction from RGB Images with Generative Adversarial Network</font>. Under Major Revision of IEEE Transactions on Neural Networks and Learning Systems
 

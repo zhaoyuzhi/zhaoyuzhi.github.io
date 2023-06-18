@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D., [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/)
-
-<font color='Red'>I am open to new jobs.</font>
+Research Engineer, Huawei Hong Kong Research Center
 
 **Research Interests**
 ======
@@ -20,7 +18,7 @@ Dr. Zhao's research interests lie in computer vision and deep learning, mainly i
 ======
 Dr. Zhao received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023. He received the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), June 2018.
 
-He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn) and [Lightspeed and Quantum Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on computer vision research and development. He has been also nominated as a reviewer for many international flagship conferences and journals such as CVPR, ICCV, ECCV, and several IEEE Transactions.
+He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn), working on computational photography research and projects, and [Lightspeed and Quantum Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on AIGC projects (e.g., stable diffusion). He is now as a research engineer at Huawei Hong Kong Research Center.
 
 He has collected the largest joint deblurring and denoising dataset [D2-Dataset](https://github.com/zhaoyuzhi/D2HNet), one-of-the-largest kinship verification and generation dataset [FF-Database](https://github.com/zhaoyuzhi/ChildPredictor), a legacy photo dataset [LP Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior), and the largest Quad-Bayer to RGB mapping dataset. You can find his developed open-sourced projects on his [GitHub Project Page](https://github.com/zhaoyuzhi).
 
@@ -34,7 +32,7 @@ He has collected the largest joint deblurring and denoising dataset [D2-Dataset]
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020 ([PDF](../files/2020-SCGAN-Saliency-Map-guided-Colorization-with-Generative-Adversarial-Network.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257445))
 
-**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Major Revision of IEEE Transactions on Image Processing
+**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Minor Revision of IEEE Transactions on Image Processing (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/SVCNet))
 
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Qiong Yan, Wei Liu, Pengfei Xian. <font color='Navy'>HSGAN: Hyperspectral Reconstruction from RGB Images with Generative Adversarial Network</font>. Under Major Revision of IEEE Transactions on Neural Networks and Learning Systems (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/HSGAN))
 
