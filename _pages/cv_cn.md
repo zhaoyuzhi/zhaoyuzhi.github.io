@@ -24,19 +24,17 @@ redirect_from:
 ======
 2023.01 - 2023.03, 算法实习生, 腾讯 互动娱乐事业群 光子技术中心, 深圳
 
-before 2022, 计算机视觉算法实习生, 商汤科技 计算成像组, 深圳
-
-2016.07 - 2016.08, 暑期实习生, 德州仪器, 上海
+2019.11 - 2022.05, 计算机视觉算法实习生, 商汤科技 计算成像组, 深圳
 
 论文
 ======
+**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. IEEE Transactions on Image Processing, 2023
+
 **Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. IEEE Transactions on Multimedia, 2022
 
 **Yuzhi Zhao**, Lai-Man Po, Wing-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. IEEE Transactions on Multimedia, 2022
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020
-
-**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Minor Revision of IEEE Transactions on Image Processing
 
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Qiong Yan, Wei Liu, Pengfei Xian. <font color='Navy'>HSGAN: Hyperspectral Reconstruction from RGB Images with Generative Adversarial Network</font>. Under Major Revision of IEEE Transactions on Neural Networks and Learning Systems
 
@@ -49,6 +47,8 @@ before 2022, 计算机视觉算法实习生, 商汤科技 计算成像组, 深�
 **Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. CVPR Workshops, 2020
 
 **Yuzhi Zhao**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. ICCV Workshops, 2019
+
+Wing-Yin Yu, Lai-Man Po, Ray C.C. Cheung, **Yuzhi Zhao**, Yu Xue, Kun Li. <font color='Navy'>Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer</font>. ICCV, 2023
 
 Kangcheng Liu, **Yuzhi Zhao**, Qiang Nie, Zhi Gao, and Ben M. Chen. <font color='Navy'>Weakly Supervised 3D Scene Segmentation with Region-Level Boundary Awareness and Instance Discrimination</font>. ECCV, 2022
 
@@ -98,7 +98,7 @@ M奖, 美国大学生数学建模竞赛, 2018
 
 课外活动
 ======
-自行车协会会长, 华中科技大学, 2015.5 - 2016.5
+自行车协会会长, 华中科技大学, 2015.05 - 2016.05
 
 院级十大歌手, 华中科技大学, 2015
 
