@@ -18,7 +18,7 @@ Yuzhi received the Ph.D. degree from [Department of Electronic Engineering](http
 
 He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn), working on computational photography research and projects, and [Lightspeed and Quantum Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on AIGC projects (e.g., stable diffusion). He is now as a research engineer at Huawei Hong Kong Research Center, working on MLLM projects.
 
-<font color='red'>Please email me if you are interested in an internship / engineer in MLLM research or projects.</font> 
+<font color='red'>We are hiring! Please email me if you are interested in an internship / research engineer position (MLLM research or projects, base: Dongguan, Shenzhen, Hong Kong).</font> 
 
 **Selected Publication**
 ======
@@ -34,7 +34,7 @@ He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn), 
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020 ([PDF](../files/2020-SCGAN-Saliency-Map-guided-Colorization-with-Generative-Adversarial-Network.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257445))
 
-**Yuzhi Zhao**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Joint Image Deblurring and Denoising with Dual-exposure Quad-Bayer Sensors</font>. Under Review of IEEE Transactions on Image Processing (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet))
+**Yuzhi Zhao**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Joint Image Deblurring and Denoising with Dual-exposure Quad-Bayer Sensors</font>. Under Major Revision of IEEE Transactions on Image Processing (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet))
 
 **Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. CVPR Workshops, 2020 (CVPR NTIRE Workshop) ([PDF](../files/2020-Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images)) ([Poster](https://github.com/zhaoyuzhi/Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images/blob/master/img/poster.png)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Zhao_Hierarchical_Regression_Network_for_Spectral_Reconstruction_From_RGB_Images_CVPRW_2020_paper.pdf))
 

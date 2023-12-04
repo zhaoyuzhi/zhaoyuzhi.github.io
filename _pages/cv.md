@@ -38,7 +38,7 @@ Publication
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020
 
-**Yuzhi Zhao**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Joint Image Deblurring and Denoising with Dual-exposure Quad-Bayer Sensors</font>. Under Review of IEEE Transactions on Image Processing
+**Yuzhi Zhao**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Joint Image Deblurring and Denoising with Dual-exposure Quad-Bayer Sensors</font>. Under Major Revision of IEEE Transactions on Image Processing
 
 **Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, and Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. ECCV, 2022
 

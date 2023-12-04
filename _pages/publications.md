@@ -26,7 +26,7 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020 ([PDF](../files/2020-SCGAN-Saliency-Map-guided-Colorization-with-Generative-Adversarial-Network.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257445))
 
-**Yuzhi Zhao**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Joint Image Deblurring and Denoising with Dual-exposure Quad-Bayer Sensors</font>. Under Review of IEEE Transactions on Image Processing (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet))
+**Yuzhi Zhao**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Joint Image Deblurring and Denoising with Dual-exposure Quad-Bayer Sensors</font>. Under Major Revision of IEEE Transactions on Image Processing (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet))
 
 Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. IEEE Transactions on Image Processing, 2022 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9733197))
 
