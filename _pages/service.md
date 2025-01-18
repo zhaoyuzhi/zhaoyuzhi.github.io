@@ -11,13 +11,39 @@ author_profile: true
 
 ## International Conferences:
 
-CVPR, ICCV, ECCV, WACV, ACCV, ICIP, ICME, ICASSP, VCIP, etc.
+- CVPR, ICCV, ECCV, ACM SIGGRAPH
+
+- AAAI, IJCAI
+
+- WACV, ACCV, ICIP, ICME, ICASSP, VCIP, etc.
 
 ## International Journals:
 
-IEEE Transactions: IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Computational Imaging, IEEE Transactions on Mechatronics
+<ul>
 
-Others: Neural Networks, Neuralcomputing, Knowledge-based Systems, Sensors, etc.
+<li>IEEE Transactions:
+<ul>
+<li>IEEE Transactions on Image Processing</li>
+<li>IEEE Transactions on Multimedia</li>
+<li>IEEE Transactions on Circuits and Systems for Video Technology</li>
+<li>IEEE Transactions on Computational Imaging</li>
+<li>IEEE Transactions on Mechatronics</li>
+</ul>
+</li>
+
+<li>Others:
+<ul>
+<li>International Journal of Computer Vision</li>
+<li>Pattern Recognition</li>
+<li>Computer Vision and Image Understanding</li>
+<li>Neural Networks</li>
+<li>Neuralcomputing</li>
+<li>Expert Systems with Applications</li>
+<li>Knowledge-based Systems</li>
+</ul>
+</li>
+
+</ul>
 
 **Talks**
 ======
