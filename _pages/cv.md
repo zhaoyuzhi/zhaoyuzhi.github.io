@@ -8,26 +8,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
+
 2018.09 - 2023.02, Ph.D. in Electronic Engineering, **City University of Hong Kong** <br>
 &ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
 
 2014.09 - 2018.06, B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology** <br>
 &ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
 
-Working Experiences
+**Working Experiences**
 ======
+
 2023.04 - now, Research Engineer, Huawei Hong Kong Research Center, Hong Kong
 
-Intern Experiences
+**Intern Experiences**
 ======
+
 2023.01 - 2023.03, Research Intern, Lightspeed and Quantum Studios, Tencent IEG, Shenzhen
 
 2019.11 - 2022.05, Research Intern, AI Imaging Group, SenseTime, Shenzhen
 
-Publication (<sup>*</sup>: corresponding author)
+**Publication**
 ======
+
+<sup>*</sup>: corresponding author
+
 Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jialun Cao, Mingjie Xu, Zhongming Jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. <font color='Navy'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</font>. AAAI, 2025
 
 Mingjie Xu, Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Weifeng Ou. <font color='Navy'>LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations</font>. WACV, 2025
@@ -78,14 +84,16 @@ Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, **Yuzh
 
 Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Face Liveness Detection using Convolutional-features Fusion of Real and Deep Network Generated Face Images</font>. Journal of Visual Communication and Image Representation, 2019
 
-Patents
+**Patents**
 ======
+
 **Yuzhi Zhao**, Qiong Yan. <font color='Navy'>A mobile phone night denoising algorithm based on multi-scale convolutional neural network</font>. CN Patent
 
 Yongzhe Xu, **Yuzhi Zhao**, Qiong Yan, Dingdong Yang. <font color='Navy'>An image deblurring technology based on fusion of long- and short-exposure images</font>. CN Patent
 
-Honor and Awards
+**Honor and Awards**
 ======
+
 1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
 4th Place in AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
@@ -98,12 +106,14 @@ Outstanding Student Leader Scholarship, Huazhong University of Science and Techn
 
 Academic Progress Scholarship, Huazhong University of Science and Technology, 2015
 
-Extracurricular Activity
+**Extracurricular Activity**
 ======
+
 President, Bicycle Association, Huazhong University of Science and Technology, 2015.05 - 2016.05
 
 Top-10 Singer, Huazhong University of Science and Technology, 2015
 
-Interest
+**Interest**
 ======
+
 Singing, Cycling, Hiking, etc.

@@ -8,26 +8,32 @@ redirect_from:
 
 {% include base_path %}
 
-教育经历
+**教育经历**
 ======
+
 2018.09 - 2023.02, 哲学博士, **香港城市大学** 电子工程系 <br>
 (指导老师: [布礼文教授](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
 
 2014.09 - 2018.06, 工学学士, **华中科技大学** 电子信息与通信学院 <br>
 (启明学院电信卓越班, 指导老师: [黑晓军教授](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
 
-工作经历
+**工作经历**
 ======
+
 2023.04 - now, 研究工程师, 华为香港研究所, 香港
 
-实习经历
+**实习经历**
 ======
+
 2023.01 - 2023.03, 算法实习生, 腾讯 互动娱乐事业群 光子技术中心, 深圳
 
 2019.11 - 2022.05, 计算机视觉算法实习生, 商汤科技 计算成像组, 深圳
 
-论文 (<sup>*</sup>: corresponding author)
+**论文**
 ======
+
+<sup>*</sup>: corresponding author
+
 Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jialun Cao, Mingjie Xu, Zhongming Jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. <font color='Navy'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</font>. AAAI, 2025
 
 Mingjie Xu, Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Weifeng Ou. <font color='Navy'>LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations</font>. WACV, 2025
@@ -78,14 +84,16 @@ Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, **Yuzh
 
 Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Face Liveness Detection using Convolutional-features Fusion of Real and Deep Network Generated Face Images</font>. Journal of Visual Communication and Image Representation, 2019
 
-专利
+**专利**
 ======
+
 **赵昱植**, 严琼. <font color='Navy'>图像去噪方法及装置、电子设备和存储介质</font>. CN Patent
 
 许泳哲, **赵昱植**, 杨定东, 严琼. <font color='Navy'>图片处理方法、装置、电子设备及存储介质</font>. CN Patent
 
-荣誉
+**荣誉**
 ======
+
 第一名, NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
 第四名, AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
@@ -98,12 +106,14 @@ M奖, 美国大学生数学建模竞赛, 2018
 
 学业奖学金, 华中科技大学, 2015
 
-课外活动
+**课外活动**
 ======
+
 自行车协会会长, 华中科技大学, 2015.05 - 2016.05
 
 院级十大歌手, 华中科技大学, 2015
 
-个人爱好
+**个人爱好**
 ======
+
 唱歌, 骑行, 爬山, 等等.
