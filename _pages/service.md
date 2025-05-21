@@ -11,11 +11,9 @@ author_profile: true
 
 ## International Conferences:
 
-- CVPR, ICCV, ECCV, ACM SIGGRAPH
+- CVPR, ICCV, ECCV, WACV, ICIP, ACCV, etc.
 
-- AAAI, IJCAI
-
-- WACV, ACCV, ICIP, ICME, ICASSP, VCIP, etc.
+- AAAI, ACM MM, SIGGRAPH, etc.
 
 ## International Journals:
 
@@ -23,16 +21,22 @@ author_profile: true
 
 <li>IEEE Transactions:
 <ul>
-<li>IEEE Transactions on Image Processing</li>
-<li>IEEE Transactions on Multimedia</li>
-<li>IEEE Transactions on Circuits and Systems for Video Technology</li>
-<li>IEEE Transactions on Computational Imaging</li>
-<li>IEEE Transactions on Mechatronics</li>
+<li>IEEE Transactions on Image Processing (TIP)</li>
+<li>IEEE Transactions on Visualization and Computer Graphics (TVCG)</li>
+<li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
+<li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+<li>IEEE Transactions on Multimedia (TMM)</li>
+<li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
+<li>IEEE Transactions on Computational Imaging (TCI)</li>
+<li>IEEE Transactions on Artificial Intelligence (TAI)</li>
+<li>IEEE Transactions on Mechatronics (TMECH)</li>
+<li>IEEE Transactions on Instrumentation and Measurement (TIM)</li>
 </ul>
 </li>
 
 <li>Others:
 <ul>
+<li>ACM Transactions on Graphics</li>
 <li>International Journal of Computer Vision</li>
 <li>Pattern Recognition</li>
 <li>Computer Vision and Image Understanding</li>

@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Research Engineer, Huawei Hong Kong Research Center
+Researcher, Huawei Hong Kong Research Center
 
 Pak Shek Kok, Hong Kong SAR, China
 
 **Short Bio**
 ======
 
-I am research engineer at Huawei Hong Kong Research Center. I received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023 and the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June 2018. I have broad interests in AI applications, including low-level vision and computational photography, generative models (e.g., GAN and diffusion model). Recently, I focuses on applications of Multimodal Large Language Model (MLLM), e.g., AI Agent.
+I received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023 and the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June 2018. I have broad interests in AI applications, including low-level vision and computational photography, generative models (e.g., GAN and diffusion model). Recently, I focuses on applications of Multimodal Large Language Model (MLLM), e.g., AI Agent.
 
-He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn), working on computational photography research and projects, and [Lightspeed and Quantum Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on AIGC projects (e.g., stable diffusion). He is now as a research engineer at Huawei Hong Kong Research Center, working on MLLM projects.
+Now, I serve as a researcher at 2012 Labs, Huawei Hong Kong Research Center, working on MLLM and AI Agent projects. Specifically, Our team develops multimodal content moderation system and GUI Test Agent. Our team's research results have been successfully applied in Huawei's product lines. Moreover, our team has several research output, e.g., AAAI 2025, ICML 2025, and 7 submissions toward top conferences.
+
+I was a student researcher at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn), working on computational photography research and projects. Specifically, I developed two joint deblurring and denoising systems, on RGB images and RAW images, respectively. I was also a student researcher at [Lightspeed and Quantum Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on AIGC projects (e.g., stable diffusion).
 
 <font color='red'>We are hiring! Please email me if you are interested in an internship / research engineer position (MLLM research or projects, base: Dongguan, Beijing, Shanghai, Hong Kong).</font> 
 
@@ -27,6 +29,8 @@ He has interned at [AI Imaging Group, SenseTime](https://www.sensetime.com/cn), 
 <sup>*</sup>: corresponding author
 
 - LLM, MLLM, AI Agent
+
+Jinpeng Chen, Runmin Cong, **Yuzhi Zhao<sup>*</sup>**, Hongzheng Yang, Guangneng Hu, Horace Ip, Sam Kwong. <font color='Navy'>SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning</font>. ICML, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/jinpeng0528/SEFE)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2505.02486v1))
 
 Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jialun Cao, Mingjie Xu, Zhongming Jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. <font color='Navy'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</font>. AAAI, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/ICM-Assistant)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.18216))
 
