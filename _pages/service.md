@@ -13,7 +13,7 @@ author_profile: true
 
 - CVPR, ICCV, ECCV, WACV, ICIP, ACCV, etc.
 
-- AAAI, ACM MM, SIGGRAPH, etc.
+- SIGGRAPH, AAAI, ACM MM, etc.
 
 ## International Journals:
 

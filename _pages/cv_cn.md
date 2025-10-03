@@ -61,9 +61,15 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 **会议论文** (<sup>*</sup>: corresponding author)
 ======
 
+Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Pengfei Xian, Mengyang Wu, Jinpeng Chen, Wenao Ma, **Yuzhi Zhao<sup>*</sup>**, Shengchao Qin, Graziano Chesi, Ngai Wong. <font color='Navy'>KG-RAG: Enhancing App Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation</font>. EMNLP, 2025 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.00366))
+
+Li Kun, Lai Man Po, Hongzheng Yang, Xuyuan Xu, Kangcheng Liu, **Yuzhi Zhao<sup>*</sup>**. <font color='Navy'>Revealing Biased Personality in MLLM: A Study on Personalized Image Aesthetic Assessment</font>. EMNLP, 2025 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.11620))
+
 Jinpeng Chen, Runmin Cong, **Yuzhi Zhao<sup>*</sup>**, Hongzheng Yang, Guangneng Hu, Horace Ip, Sam Kwong. <font color='Navy'>SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning</font>. ICML, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/jinpeng0528/SEFE)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2505.02486v1))
 
 Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jialun Cao, Mingjie Xu, Zhongming Jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. <font color='Navy'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</font>. AAAI, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/ICM-Assistant)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.18216))
+
+Xuehui Wang, Chongjie Si, Xue Yang, **Yuzhi Zhao**, Wenhai Wang, Xiaokang Yang, Wei Shen. <font color='Navy'>OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information</font>. NeurIPS, 2025
 
 Mingjie Xu, Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Weifeng Ou. <font color='Navy'>LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations</font>. WACV, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/Endlinc/LLaVA-SpaceSGG)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.06322))
 

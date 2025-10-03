@@ -30,6 +30,10 @@ I was a student researcher at [AI Imaging Group, SenseTime](https://www.sensetim
 
 - LLM, MLLM, AI Agent
 
+Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Pengfei Xian, Mengyang Wu, Jinpeng Chen, Wenao Ma, **Yuzhi Zhao<sup>*</sup>**, Shengchao Qin, Graziano Chesi, Ngai Wong. <font color='Navy'>KG-RAG: Enhancing App Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation</font>. EMNLP, 2025 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.00366))
+
+Li Kun, Lai Man Po, Hongzheng Yang, Xuyuan Xu, Kangcheng Liu, **Yuzhi Zhao<sup>*</sup>**. <font color='Navy'>Revealing Biased Personality in MLLM: A Study on Personalized Image Aesthetic Assessment</font>. EMNLP, 2025 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.11620))
+
 Jinpeng Chen, Runmin Cong, **Yuzhi Zhao<sup>*</sup>**, Hongzheng Yang, Guangneng Hu, Horace Ip, Sam Kwong. <font color='Navy'>SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning</font>. ICML, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/jinpeng0528/SEFE)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2505.02486v1))
 
 Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jialun Cao, Mingjie Xu, Zhongming Jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. <font color='Navy'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</font>. AAAI, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/ICM-Assistant)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.18216))
@@ -59,6 +63,8 @@ Wing-Yin Yu, Lai-Man Po, Ray C.C. Cheung, **Yuzhi Zhao**, Yu Xue, Kun Li. <font 
 Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. IEEE Transactions on Image Processing, 2022 ([PDF](../files/2022-ShaTure-Shape-and-Texture-Deformation-for-Human-Pose-and-Attribute-Transfer.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9733197))
 
 - Representation learning
+
+Xuehui Wang, Chongjie Si, Xue Yang, **Yuzhi Zhao**, Wenhai Wang, Xiaokang Yang, Wei Shen. <font color='Navy'>OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information</font>. NeurIPS, 2025
 
 Kangcheng Liu, **Yuzhi Zhao**, Qiang Nie, Zhi Gao, and Ben M. Chen. <font color='Navy'>Weakly Supervised 3D Scene Segmentation with Region-Level Boundary Awareness and Instance Discrimination</font>. ECCV, 2022 ([PDF](../files/2022-Weakly-Supervised-3D-Scene-Segmentation-with-Region-Level-Boundary-Awareness-and-Instance-Discrimination.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/Smart-Robotics-Scientist/Weakly-Supervised-3D)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf))
 
