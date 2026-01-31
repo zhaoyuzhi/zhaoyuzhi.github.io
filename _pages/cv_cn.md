@@ -121,7 +121,9 @@ Wei Liu, Qiong Yan, **Yuzhi Zhao**. <font color='Navy'>Densely Self-guided Wavel
 
 港研之星, 华为香港研究所, 2024
 
-优秀实习生, 商汤科技, 2021
+优秀个人奖, 华为公司, 2024
+
+优秀实习生, 商汤科技, 2020
 
 第一名, NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 

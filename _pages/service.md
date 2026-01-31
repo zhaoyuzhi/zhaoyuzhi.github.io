@@ -11,9 +11,17 @@ author_profile: true
 
 ## International Conferences:
 
-- CVPR, ICCV, ECCV, WACV, ICIP, ACCV, etc.
+Computer Vision and Image Processing:
 
-- SIGGRAPH, AAAI, ACM MM, etc.
+- CVPR, ICCV, ECCV
+
+- SIGGRAPH, ACM MM
+
+- WACV, ACCV, ICME, ICASSP, ICIP, etc.
+
+Machine Learning:
+
+- ICML, NeurIPS, AAAI, etc.
 
 ## International Journals:
 

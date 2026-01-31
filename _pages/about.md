@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Researcher, Huawei Hong Kong Research Center
+Researcher, ByteDance
 
-Pak Shek Kok, Hong Kong SAR, China
+Shenzhen, China
 
 **Short Bio**
 ======

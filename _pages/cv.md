@@ -121,7 +121,9 @@ Talent Scout Award, Huawei Hong Kong Research Center, 2025
 
 Star of Huawei HKRC, Huawei Hong Kong Research Center, 2024
 
-Excellent Intern, SenseTime Research, 2021
+Excellent Individual Award, Huawei, 2024
+
+Excellent Intern, SenseTime Research, 2020
 
 1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
