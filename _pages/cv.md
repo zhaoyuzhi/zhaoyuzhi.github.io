@@ -20,10 +20,12 @@ redirect_from:
 **Working Experiences**
 ======
 
-2023.04 - now, Researcher, Huawei Hong Kong Research Center, Hong Kong
+2025.12 - now, Researcher, ByteDance, Shenzhen
 
 **Intern Experiences**
 ======
+
+2023.04 - 2025.12, Researcher, Huawei Hong Kong Research Center, Hong Kong
 
 2023.01 - 2023.03, Student Researcher, Lightspeed and Quantum Studios, Tencent IEG, Shenzhen
 
@@ -32,7 +34,7 @@ redirect_from:
 **Journal** (<sup>*</sup>: corresponding author)
 ======
 
-**Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring</font>. IEEE Transactions on Image Processing, 2024 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.07256))
+**Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring</font>. IEEE Transactions on Image Processing, 2024 ([PDF](../files/2024-Modeling-Dual-Exposure-Quad-Bayer-Patterns-for-Joint-Denoising-and-Deblurring.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.07256))
 
 **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. IEEE Transactions on Image Processing, 2023 ([PDF](../files/2023-SVCNet-Scribble-Based-Video-Colorization-Network-With-Temporal-Aggregation.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/SVCNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/10198230))
 
@@ -61,27 +63,33 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 **Conference** (<sup>*</sup>: corresponding author)
 ======
 
-Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Pengfei Xian, Mengyang Wu, Jinpeng Chen, Wenao Ma, **Yuzhi Zhao<sup>*</sup>**, Shengchao Qin, Graziano Chesi, Ngai Wong. <font color='Navy'>KG-RAG: Enhancing App Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation</font>. EMNLP, 2025 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.00366))
+Hieu Trung Nguyen, Bao Nguyen, Wenao Ma, **Yuzhi Zhao**, Ruifeng She, Viet Anh Nguyen. <font color='Navy'>Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards</font>. ICLR, 2026 ([PDF](../files/2026-Adaptive-Rollout-Allocation-for-Online-Reinforcement-Learning-with-Verifiable-Rewards.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://openreview.net/forum?id=Z5sWYACAop&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)))
 
-Li Kun, Lai Man Po, Hongzheng Yang, Xuyuan Xu, Kangcheng Liu, **Yuzhi Zhao<sup>*</sup>**. <font color='Navy'>AesBiasBench: Evaluating Bias and Alignment in Multimodal Language Models for Personalized Image Aesthetic Assessment</font>. EMNLP, 2025 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.11620))
+Donglai Xu, Hongzheng Yang, **Yuzhi Zhao<sup>*</sup>**, Pingping Zhang, Jinpeng Chen, Wenao Ma, Zhijian Hou, Mengyang Wu, Xiaolei Li, Senkang Hu, Ziyi Guan, Jason Chun Lok Li, Lai-Man Po. <font color='Navy'>From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training</font>. Preprint, 2025 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.07738))
 
-Jinpeng Chen, Runmin Cong, **Yuzhi Zhao<sup>*</sup>**, Hongzheng Yang, Guangneng Hu, Horace Ip, Sam Kwong. <font color='Navy'>SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning</font>. ICML, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/jinpeng0528/SEFE)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2505.02486v1))
+Mingjie Xu, Jinpeng Chen, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Yue Qiu, Zekang Du, Mengyang Wu, Pingping Zhang, Kun Li, Hongzheng Yang, Wenao Ma, Jiaheng Wei, Qinbin Li, Kangcheng Liu, Wenqiang Lei. <font color='Navy'>VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models</font>. AAAI, 2026 ([PDF](../files/2026-VP-Bench-A-Comprehensive-Benchmark-for-Visual-Prompting-in-Multimodal-Large-Language-Models.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.11438))
 
-Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jialun Cao, Mingjie Xu, Zhongming Jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. <font color='Navy'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</font>. AAAI, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/ICM-Assistant)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.18216))
+Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Pengfei Xian, Mengyang Wu, Jinpeng Chen, Wenao Ma, **Yuzhi Zhao<sup>*</sup>**, Shengchao Qin, Graziano Chesi, Ngai Wong. <font color='Navy'>KG-RAG: Enhancing App Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation</font>. EMNLP, 2025 ([PDF](../files/2025-KG-RAG-Enhancing-GUI-Agent-Decision-Making-via-Knowledge-Graph-Driven-Retrieval-Augmented-Generation.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.00366))
 
-Xuehui Wang, Chongjie Si, Xue Yang, **Yuzhi Zhao**, Wenhai Wang, Xiaokang Yang, Wei Shen. <font color='Navy'>OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information</font>. NeurIPS, 2025
+Li Kun, Lai Man Po, Hongzheng Yang, Xuyuan Xu, Kangcheng Liu, **Yuzhi Zhao<sup>*</sup>**. <font color='Navy'>AesBiasBench: Evaluating Bias and Alignment in Multimodal Language Models for Personalized Image Aesthetic Assessment</font>. EMNLP, 2025 ([PDF](../files/2025-AesBiasBench-Evaluating-Bias-and-Alignment-in-Multimodal-Language-Models-for-Personalized-Image-Aesthetic-Assessment.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.11620))
 
-Mingjie Xu, Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Weifeng Ou. <font color='Navy'>LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations</font>. WACV, 2025 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/Endlinc/LLaVA-SpaceSGG)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.06322))
+Jinpeng Chen, Runmin Cong, **Yuzhi Zhao<sup>*</sup>**, Hongzheng Yang, Guangneng Hu, Horace Ip, Sam Kwong. <font color='Navy'>SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning</font>. ICML, 2025 ([PDF](../files/2025-SEFE-Superficial-and-Essential-Forgetting-Eliminator-for-Multimodal-Continual-Instruction-Tuning.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/jinpeng0528/SEFE)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2505.02486v1))
+
+Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jialun Cao, Mingjie Xu, Zhongming Jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. <font color='Navy'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</font>. AAAI, 2025 ([PDF](../files/2025-ICM-Assistant-Instruction-tuning-Multimodal-Large-Language-Models-for-Rule-based-Explainable-Image-Content-Moderation.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/ICM-Assistant)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.18216))
+
+Xuehui Wang, Chongjie Si, Xue Yang, **Yuzhi Zhao**, Wenhai Wang, Xiaokang Yang, Wei Shen. <font color='Navy'>OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information</font>. NeurIPS, 2025 ([PDF](../files/2025-OPMapper-Enhancing-Open-Vocabulary-Semantic-Segmentation-with-Multi-Guidance-Information.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://openreview.net/forum?id=UjSBOwKZ02&referrer=%5Bthe%20profile%20of%20Yuzhi%20Zhao%5D(%2Fprofile%3Fid%3D~Yuzhi_Zhao1)))
+
+Mingjie Xu, Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Weifeng Ou. <font color='Navy'>LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations</font>. WACV, 2025 ([PDF](../files/2025-LLaVA-SpaceSGG-Visual-Instruct-Tuning-for-Open-vocabulary-Scene-Graph.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/Endlinc/LLaVA-SpaceSGG)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.06322))
 
 Wing-Yin Yu, Lai-Man Po, Ray C.C. Cheung, **Yuzhi Zhao**, Yu Xue, Kun Li. <font color='Navy'>Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer</font>. ICCV, 2023 ([PDF](../files/2023-Bidirectionally-Deformable-Motion-Modulation-For-Video-based-Human-Pose-Transfer.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/rocketappslab/bdmm)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https))
 
-**Yuzhi Zhao<sup>*</sup>**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, and Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. ECCV, 2022 ([PDF](../files/2022-D2HNet-Joint-Denoising-and-Deblurring-with-Hierarchical-Network-for-Robust-Night-Image-Restoration)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code/Dataset](https://github.com/zhaoyuzhi/D2HNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/pdf/2207.03294.pdf))
+**Yuzhi Zhao<sup>*</sup>**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, and Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. ECCV, 2022 ([PDF](../files/2022-D2HNet-Joint-Denoising-and-Deblurring-with-Hierarchical-Network-for-Robust-Night-Image-Restoration.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code/Dataset](https://github.com/zhaoyuzhi/D2HNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/pdf/2207.03294.pdf))
 
 Kangcheng Liu, **Yuzhi Zhao**, Qiang Nie, Zhi Gao, and Ben M. Chen. <font color='Navy'>Weakly Supervised 3D Scene Segmentation with Region-Level Boundary Awareness and Instance Discrimination</font>. ECCV, 2022 ([PDF](../files/2022-Weakly-Supervised-3D-Scene-Segmentation-with-Region-Level-Boundary-Awareness-and-Instance-Discrimination.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/Smart-Robotics-Scientist/Weakly-Supervised-3D)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf))
 
 Kangcheng Liu, **Yuzhi Zhao**, Zhi Gao, and Ben M. Chen. <font color='Navy'>WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding</font>. ICRA, 2022 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811959))
 
-Yujia Zhang, Lai-Man Po, Xuyuan Xu, Mengyang Liu, Yexin Wang, Weifeng Ou, **Yuzhi Zhao**, Wing-Yin Yu. <font color='Navy'>Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation</font>. AAAI, 2022 ([PDF](2022-Contrastive-Spatio-Temporal-Pretext-Learning-for-Self-supervised-Video-Representation)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/KT27-A/CSTP)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ojs.aaai.org/index.php/AAAI/article/view/20248))
+Yujia Zhang, Lai-Man Po, Xuyuan Xu, Mengyang Liu, Yexin Wang, Weifeng Ou, **Yuzhi Zhao**, Wing-Yin Yu. <font color='Navy'>Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation</font>. AAAI, 2022 ([PDF](../files/2022-Contrastive-Spatio-Temporal-Pretext-Learning-for-Self-supervised-Video-Representation.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/KT27-A/CSTP)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ojs.aaai.org/index.php/AAAI/article/view/20248))
 
 **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. WACV (oral), 2021 ([PDF](../files/2021-Legacy-Photo-Editing-with-Learned-Noise-Prior.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code/Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://openaccess.thecvf.com/content/WACV2021/papers/Zhao_Legacy_Photo_Editing_With_Learned_Noise_Prior_WACV_2021_paper.pdf))
 
@@ -109,6 +117,12 @@ Yongzhe Xu, **Yuzhi Zhao**, Qiong Yan, Dingdong Yang. <font color='Navy'>An imag
 **Honor and Awards**
 ======
 
+Talent Scout Award, Huawei Hong Kong Research Center, 2025
+
+Star of Huawei HKRC, Huawei Hong Kong Research Center, 2024
+
+Excellent Intern, SenseTime Research, 2021
+
 1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
 4th Place in AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
@@ -121,14 +135,11 @@ Outstanding Student Leader Scholarship, Huazhong University of Science and Techn
 
 Academic Progress Scholarship, Huazhong University of Science and Technology, 2015
 
-**Extracurricular Activity**
+**Interest**
 ======
 
 President, Bicycle Association, Huazhong University of Science and Technology, 2015.05 - 2016.05
 
 Top-10 Singer, Huazhong University of Science and Technology, 2015
-
-**Interest**
-======
 
 Singing, Cycling, Hiking, etc.
