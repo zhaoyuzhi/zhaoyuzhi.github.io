@@ -17,11 +17,11 @@ Computer Vision and Image Processing:
 
 - SIGGRAPH, ACM MM
 
-- WACV, ACCV, ICME, ICASSP, ICIP, etc.
+- WACV, ACCV, BMVC, ICME, ICASSP, ICIP, etc.
 
 Machine Learning:
 
-- ICML, NeurIPS, AAAI, etc.
+- ICML, NeurIPS, ICLR, AAAI, etc.
 
 ## International Journals:
 
