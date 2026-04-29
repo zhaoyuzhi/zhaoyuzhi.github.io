@@ -20,11 +20,11 @@ I received the Ph.D. degree from [Department of Electronic Engineering](https://
 **Working Experiences**
 ======
 
-Now I am a researcher at ByteDance Research. I focus on GUI Agent and MLLM and their applications.
+Now I am a researcher at ByteDance Research, focusing on GUI Agent and MLLM and their applications.
 
 Previously, I was with 2012 Labs, Huawei Hong Kong Research Center, working on MLLM and AI Agent projects. Specifically, I and my group developed the multimodal content moderation system and GUI Test Agent for HarmonyOS. Some of my research results have been successfully applied in Huawei's product lines.
 
-Before that, I was a student researcher with [AI Imaging Group, SenseTime](https://www.sensetime.com/cn), working on computational photography research and projects. Specifically, I developed two joint deblurring and denoising systems on RGB images and RAW images, respectively. I was also a student researcher with [Lightspeed and Quantum Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on AIGC projects (e.g., stable diffusion).
+Before that, I was a research intern with [AI Imaging Group, SenseTime](https://www.sensetime.com/cn), working on computational photography research and projects. Specifically, I developed two joint deblurring and denoising systems on RGB images and RAW images, respectively. I was also a research intern with [Lightspeed and Quantum Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on AIGC projects (e.g., stable diffusion).
 
 <font color='red'>We are hiring! Please email me if you are interested in an internship / research engineer position (MLLM research or projects, GUI Agents, base: Shenzhen or Beijing).</font> 
 
@@ -71,7 +71,7 @@ Li Kun, Lai Man Po, Hongzheng Yang, Xuyuan Xu, Kangcheng Liu, **Yuzhi Zhao<sup>*
 
 - Generative Models
 
-Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE TIP, 2026
+Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE Transactions on Image Processing, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/abstract/document/11489281))
 
 Wing-Yin Yu, Lai-Man Po, Ray C.C. Cheung, **Yuzhi Zhao**, Yu Xue, Kun Li. <font color='Navy'>Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer</font>. ICCV, 2023 ([PDF](../files/2023-Bidirectionally-Deformable-Motion-Modulation-For-Video-based-Human-Pose-Transfer.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/rocketappslab/bdmm)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/pdf/2307.07754.pdf))
 

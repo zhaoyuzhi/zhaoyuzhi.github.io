@@ -34,7 +34,7 @@ redirect_from:
 **期刊论文** (<sup>*</sup>: corresponding author)
 ======
 
-Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE TIP, 2026
+Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE Transactions on Image Processing, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/abstract/document/11489281))
 
 **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring</font>. IEEE Transactions on Image Processing, 2024 ([PDF](../files/2024-Modeling-Dual-Exposure-Quad-Bayer-Patterns-for-Joint-Denoising-and-Deblurring.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.07256))
 

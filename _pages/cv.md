@@ -27,14 +27,14 @@ redirect_from:
 
 2023.04 - 2025.12, Researcher, Huawei Hong Kong Research Center, Hong Kong
 
-2023.01 - 2023.03, Student Researcher, Lightspeed and Quantum Studios, Tencent IEG, Shenzhen
+2023.01 - 2023.03, Research Intern, Lightspeed and Quantum Studios, Tencent IEG, Shenzhen
 
-2019.11 - 2022.05, Student Researcher, AI Imaging Group, SenseTime, Shenzhen
+2019.11 - 2022.05, Research Intern, AI Imaging Group, SenseTime, Shenzhen
 
 **Journal** (<sup>*</sup>: corresponding author)
 ======
 
-Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE TIP, 2026
+Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE Transactions on Image Processing, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/abstract/document/11489281))
 
 **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring</font>. IEEE Transactions on Image Processing, 2024 ([PDF](../files/2024-Modeling-Dual-Exposure-Quad-Bayer-Patterns-for-Joint-Denoising-and-Deblurring.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.07256))
 
