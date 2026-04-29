@@ -15,12 +15,12 @@ Shenzhen, China
 **Short Bio**
 ======
 
-I received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023 and the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June 2018. I have broad interests in AI applications, including low-level vision and computational photography, generative models (e.g., GAN and diffusion model). Recently, I focuses on applications of Multimodal Large Language Model (MLLM), e.g., AI Agent. I have more than 40 published papers and 11 of which are as the first or corresponding author (CCF A or CAAI A rank). Currently my citations surpass 1500.
+I received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023 and the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June 2018. I have broad interests in AI applications, including low-level vision and computational photography, generative models (e.g., GAN and diffusion model). Recently, I focuses on applications of Multimodal Large Language Model (MLLM), e.g., AI Agent. I have more than 40 published papers and 12 of which are as the first or corresponding author (CCF A or CAAI A rank). Currently my citations surpass 1700.
 
 **Working Experiences**
 ======
 
-Now I am a researcher at ByteDance Research, focusing on GUI Agent and MLLM and their applications.
+Now I am a researcher at ByteDance, focusing on GUI Agent and MLLM and their applications.
 
 Previously, I was with 2012 Labs, Huawei Hong Kong Research Center, working on MLLM and AI Agent projects. Specifically, I and my group developed the multimodal content moderation system and GUI Test Agent for HarmonyOS. Some of my research results have been successfully applied in Huawei's product lines.
 
