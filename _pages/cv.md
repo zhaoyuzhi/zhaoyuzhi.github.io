@@ -67,7 +67,7 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 
 Donglai Xu, Hongzheng Yang, **Yuzhi Zhao<sup>*</sup>**, Pingping Zhang, Jinpeng Chen, Wenao Ma, Zhijian Hou, Mengyang Wu, Xiaolei Li, Senkang Hu, Ziyi Guan, Jason Chun Lok Li, Lai-Man Po. <font color='Navy'>From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training</font>. CVPR, 2026 ([PDF](../files/2026-From-Exploration-to-Exploitation-A-Two-Stage-Entropy-RLVR-Approach-for-Noise-Tolerant-MLLM-Training.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/xudonglai0426/RLVR-from-Exploration-to-Exploitation)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.07738))
 
-Senkang Hu, Yong Dai, **Yuzhi Zhao<sup>*</sup>**, Yihang Tao, Yu Guo,Zhengru Fang, Sam Tak Wu Kwong, Yuguang Fang. <font color='Navy'>Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward</font>. ICML, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL]())
+Senkang Hu, Yong Dai, **Yuzhi Zhao<sup>*</sup>**, Yihang Tao, Yu Guo, Zhengru Fang, Sam Tak Wu Kwong, Yuguang Fang. <font color='Navy'>Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward</font>. ICML, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2602.00845))
 
 Hieu Trung Nguyen, Bao Nguyen, Wenao Ma, **Yuzhi Zhao**, Ruifeng She, Viet Anh Nguyen. <font color='Navy'>Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards</font>. ICLR, 2026 ([PDF](../files/2026-Adaptive-Rollout-Allocation-for-Online-Reinforcement-Learning-with-Verifiable-Rewards.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/HieuNT91/VIP)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://openreview.net/forum?id=Z5sWYACAop&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)))
 
@@ -140,12 +140,3 @@ Excellent Graduate, Huazhong University of Science and Technology, 2018
 Outstanding Student Leader Scholarship, Huazhong University of Science and Technology, 2015
 
 Academic Progress Scholarship, Huazhong University of Science and Technology, 2015
-
-**Interest**
-======
-
-President, Bicycle Association, Huazhong University of Science and Technology, 2015.05 - 2016.05
-
-Top-10 Singer, Huazhong University of Science and Technology, 2015
-
-Singing, Cycling, Hiking, etc.

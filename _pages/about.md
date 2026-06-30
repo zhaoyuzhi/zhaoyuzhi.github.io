@@ -15,7 +15,7 @@ Shenzhen, China
 **Short Bio**
 ======
 
-I received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023 and the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June 2018. I have broad interests in AI applications, including low-level vision and computational photography, generative models (e.g., GAN and diffusion model). Recently, I focuses on applications of Multimodal Large Language Model (MLLM), e.g., AI Agent. I have more than 40 published papers and 12 of which are as the first or corresponding author (CCF A or CAAI A rank). Currently my citations surpass 1700.
+I received the Ph.D. degree from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023 and the B.Eng. degree from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June 2018. I have broad interests in AI applications, including low-level vision and computational photography, generative models (e.g., GAN and diffusion model). Recently, I focuses on applications of Multimodal Large Language Model (MLLM), e.g., AI / GUI Agent. I have more than 40 published papers and 12 of which are as the first or corresponding author (CCF A or CAAI A rank). Currently my citations surpass 1800.
 
 **Working Experiences**
 ======
@@ -26,8 +26,6 @@ Previously, I was with 2012 Labs, Huawei Hong Kong Research Center, working on M
 
 Before that, I was a research intern with [AI Imaging Group, SenseTime](https://www.sensetime.com/cn), working on computational photography research and projects. Specifically, I developed two joint deblurring and denoising systems on RGB images and RAW images, respectively. I was also a research intern with [Lightspeed and Quantum Studios, Tencent IEG](https://www.lightspeed-studios.com/), working on AIGC projects (e.g., stable diffusion).
 
-<font color='red'>We are hiring! Please email me if you are interested in an internship / research engineer position (MLLM research or projects, GUI Agents, base: Shenzhen or Beijing).</font> 
-
 **Selected Publication**
 ======
 
@@ -37,7 +35,7 @@ Before that, I was a research intern with [AI Imaging Group, SenseTime](https://
 
 Donglai Xu, Hongzheng Yang, **Yuzhi Zhao<sup>*</sup>**, Pingping Zhang, Jinpeng Chen, Wenao Ma, Zhijian Hou, Mengyang Wu, Xiaolei Li, Senkang Hu, Ziyi Guan, Jason Chun Lok Li, Lai-Man Po. <font color='Navy'>From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training</font>. CVPR, 2026 ([PDF](../files/2026-From-Exploration-to-Exploitation-A-Two-Stage-Entropy-RLVR-Approach-for-Noise-Tolerant-MLLM-Training.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/xudonglai0426/RLVR-from-Exploration-to-Exploitation)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.07738))
 
-Senkang Hu, Yong Dai, **Yuzhi Zhao<sup>*</sup>**, Yihang Tao, Yu Guo,Zhengru Fang, Sam Tak Wu Kwong, Yuguang Fang. <font color='Navy'>Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward</font>. ICML, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL]())
+Senkang Hu, Yong Dai, **Yuzhi Zhao<sup>*</sup>**, Yihang Tao, Yu Guo, Zhengru Fang, Sam Tak Wu Kwong, Yuguang Fang. <font color='Navy'>Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward</font>. ICML, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2602.00845))
 
 Hieu Trung Nguyen, Bao Nguyen, Wenao Ma, **Yuzhi Zhao**, Ruifeng She, Viet Anh Nguyen. <font color='Navy'>Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards</font>. ICLR, 2026 ([PDF](../files/2026-Adaptive-Rollout-Allocation-for-Online-Reinforcement-Learning-with-Verifiable-Rewards.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/HieuNT91/VIP)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://openreview.net/forum?id=Z5sWYACAop&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)))
 
