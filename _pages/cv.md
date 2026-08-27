@@ -62,6 +62,12 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 **Conference** (<sup>*</sup>: corresponding author)
 ======
 
+Xikai Yang, Hieu Trung Nguyen, Dunyuan Xu, **Yuzhi Zhao**, Jinpeng Li, Wenao Ma, Pheng-Ann Heng. <font color='Navy'>Noisy Test-Time Reinforcement Learning for Code LLMs</font>. EMNLP, 2026
+
+Zixuan Zhu, Yitong Hu, Yong Dai, Junfeng Fang, Chunyang Jiang, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Unified Context Evolution for LLM Agents</font>. EMNLP, 2026
+
+Jiazhen Huang, Xiao Chen, Xiao Luo, Yong Dai, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Skill-Conditioned Gated Self-Distillation for LLM Reasoning</font>. Findings of EMNLP, 2026
+
 Donglai Xu, Hongzheng Yang, **Yuzhi Zhao<sup>*</sup>**, Pingping Zhang, Jinpeng Chen, Wenao Ma, Zhijian Hou, Mengyang Wu, Xiaolei Li, Senkang Hu, Ziyi Guan, Jason Chun Lok Li, Lai-Man Po. <font color='Navy'>From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training</font>. CVPR, 2026 ([PDF](../files/2026-From-Exploration-to-Exploitation-A-Two-Stage-Entropy-RLVR-Approach-for-Noise-Tolerant-MLLM-Training.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/xudonglai0426/RLVR-from-Exploration-to-Exploitation)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.07738))
 
 Senkang Hu, Yong Dai, **Yuzhi Zhao**, Yihang Tao, Yu Guo, Zhengru Fang, Sam Kwong, Yuguang Fang. <font color='Navy'>Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward</font>. ICML, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2602.00845))
@@ -97,8 +103,6 @@ Yujia Zhang, Lai-Man Po, Xuyuan Xu, Mengyang Liu, Yexin Wang, Weifeng Ou, **Yuzh
 Xuehui Wang, Qingyun Zhao, Lei Fan, **Yuzhi Zhao**, Tiantian Wang, Qiong Yan, Long Chen. <font color='Navy'>Semasuperpixel: A Multi Channel Probability Driven Superpixel Segmentation Method</font>. ICIP, 2021 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9506437))
 
 Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Jingjing Xiong, Kin-Wai Lau. <font color='Navy'>Spatial Content Alignment For Pose Transfer</font>. ICME (oral), 2021 (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/rocketappslab/SCA-GAN)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428146))
-
-Xuehui Wang, Qingyun Zhao, Lei Fan, **Yuzhi Zhao**, Tiantian Wang, Qiong Yan, Long Chen. <font color='Navy'>Semasuperpixel: A Multi Channel Probability Driven Superpixel Segmentation Method</font>. ICIP, 2021 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506437))
 
 **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. CVPR Workshops, 2020 (CVPR NTIRE Workshop) ([PDF](../files/2020-Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images)) ([Poster](https://github.com/zhaoyuzhi/Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images/blob/master/img/poster.png)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Zhao_Hierarchical_Regression_Network_for_Spectral_Reconstruction_From_RGB_Images_CVPRW_2020_paper.pdf))
 

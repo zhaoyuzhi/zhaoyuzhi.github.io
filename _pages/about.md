@@ -15,7 +15,7 @@ Shenzhen, China
 **Short Bio**
 ======
 
-I received the Ph.D. degree in Electronic Engineering from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023 and the B.Eng. degree in Electronic and Information Engineering from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June 2018. My research spans low-level vision restoration for intelligent mobile devices, multimodal understanding of content and user intent, GUI agent systems, and benchmark construction. My research interests include post-training for Multimodal Large Language Models (MLLMs), AI agents, computational photography, and generative models. I have published 12 papers as a first or corresponding author at leading international conferences and journals, and have more than 1,800 Google Scholar citations.
+I received the Ph.D. degree in Electronic Engineering from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023 and the B.Eng. degree in Electronic and Information Engineering from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June 2018. My research spans low-level vision restoration for intelligent mobile devices, multimodal understanding of content and user intent, GUI agent systems, and benchmark construction. My research interests include post-training for Multimodal Large Language Models (MLLMs), AI agents, computational photography, and generative models. I have published 12 papers as a first or corresponding author at leading international conferences and journals, and have more than 1,900 Google Scholar citations.
 
 **Working Experiences**
 ======
@@ -33,6 +33,10 @@ Previously, I was a Student Researcher at Tencent from January to March 2023 and
 
 - LLM/MLLM Training (like RLVR or continual training)
 
+Xikai Yang, Hieu Trung Nguyen, Dunyuan Xu, **Yuzhi Zhao**, Jinpeng Li, Wenao Ma, Pheng-Ann Heng. <font color='Navy'>Noisy Test-Time Reinforcement Learning for Code LLMs</font>. EMNLP, 2026
+
+Jiazhen Huang, Xiao Chen, Xiao Luo, Yong Dai, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Skill-Conditioned Gated Self-Distillation for LLM Reasoning</font>. Findings of EMNLP, 2026
+
 Donglai Xu, Hongzheng Yang, **Yuzhi Zhao<sup>*</sup>**, Pingping Zhang, Jinpeng Chen, Wenao Ma, Zhijian Hou, Mengyang Wu, Xiaolei Li, Senkang Hu, Ziyi Guan, Jason Chun Lok Li, Lai-Man Po. <font color='Navy'>From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training</font>. CVPR, 2026 ([PDF](../files/2026-From-Exploration-to-Exploitation-A-Two-Stage-Entropy-RLVR-Approach-for-Noise-Tolerant-MLLM-Training.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/xudonglai0426/RLVR-from-Exploration-to-Exploitation)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.07738))
 
 Senkang Hu, Yong Dai, **Yuzhi Zhao**, Yihang Tao, Yu Guo, Zhengru Fang, Sam Kwong, Yuguang Fang. <font color='Navy'>Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward</font>. ICML, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2602.00845))
@@ -42,6 +46,8 @@ Hieu Trung Nguyen, Bao Nguyen, Wenao Ma, **Yuzhi Zhao**, Ruifeng She, Viet Anh N
 Jinpeng Chen, Runmin Cong, **Yuzhi Zhao<sup>*</sup>**, Hongzheng Yang, Guangneng Hu, Horace Ip, Sam Kwong. <font color='Navy'>SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning</font>. ICML, 2025 ([PDF](../files/2025-SEFE-Superficial-and-Essential-Forgetting-Eliminator-for-Multimodal-Continual-Instruction-Tuning.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/jinpeng0528/SEFE)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2505.02486v1))
 
 - AI Agent, LLM/MLLM Applications
+
+Zixuan Zhu, Yitong Hu, Yong Dai, Junfeng Fang, Chunyang Jiang, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Unified Context Evolution for LLM Agents</font>. EMNLP, 2026
 
 Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Pengfei Xian, Mengyang Wu, Jinpeng Chen, Wenao Ma, **Yuzhi Zhao<sup>*</sup>**, Shengchao Qin, Graziano Chesi, Ngai Wong. <font color='Navy'>KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation</font>. EMNLP, 2025 ([PDF](../files/2025-KG-RAG-Enhancing-GUI-Agent-Decision-Making-via-Knowledge-Graph-Driven-Retrieval-Augmented-Generation.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/KG-RAG-GUI-Agent)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.00366))
 
