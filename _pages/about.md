@@ -35,11 +35,11 @@ Previously, I was a Student Researcher at Tencent from January to March 2023 and
 
 Xikai Yang, Hieu Trung Nguyen, Dunyuan Xu, **Yuzhi Zhao**, Jinpeng Li, Wenao Ma, Pheng-Ann Heng. <font color='Navy'>Noisy Test-Time Reinforcement Learning for Code LLMs</font>. EMNLP, 2026
 
-Jiazhen Huang, Xiao Chen, Xiao Luo, Yong Dai, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Skill-Conditioned Gated Self-Distillation for LLM Reasoning</font>. Findings of EMNLP, 2026
+Jiazhen Huang, Xiao Chen, Xiao Luo, Yong Dai, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Skill-Conditioned Gated Self-Distillation for LLM Reasoning</font>. Findings of EMNLP, 2026 ([PDF](../files/2026-Skill-Conditioned-Gated-Self-Distillation-for-LLM-Reasoning.pdf))
 
 Donglai Xu, Hongzheng Yang, **Yuzhi Zhao<sup>*</sup>**, Pingping Zhang, Jinpeng Chen, Wenao Ma, Zhijian Hou, Mengyang Wu, Xiaolei Li, Senkang Hu, Ziyi Guan, Jason Chun Lok Li, Lai-Man Po. <font color='Navy'>From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training</font>. CVPR, 2026 ([PDF](../files/2026-From-Exploration-to-Exploitation-A-Two-Stage-Entropy-RLVR-Approach-for-Noise-Tolerant-MLLM-Training.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/xudonglai0426/RLVR-from-Exploration-to-Exploitation)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.07738))
 
-Senkang Hu, Yong Dai, **Yuzhi Zhao**, Yihang Tao, Yu Guo, Zhengru Fang, Sam Kwong, Yuguang Fang. <font color='Navy'>Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward</font>. ICML, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2602.00845))
+Senkang Hu, Yong Dai, **Yuzhi Zhao**, Yihang Tao, Yu Guo, Zhengru Fang, Sam Kwong, Yuguang Fang. <font color='Navy'>Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward</font>. ICML, 2026 ([PDF](../files/2026-Optimizing-Agentic-Reasoning-with-Retrieval-via-Synthetic-Semantic-Information-Gain-Reward.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2602.00845))
 
 Hieu Trung Nguyen, Bao Nguyen, Wenao Ma, **Yuzhi Zhao**, Ruifeng She, Viet Anh Nguyen. <font color='Navy'>Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards</font>. ICLR, 2026 ([PDF](../files/2026-Adaptive-Rollout-Allocation-for-Online-Reinforcement-Learning-with-Verifiable-Rewards.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/HieuNT91/VIP)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://openreview.net/forum?id=Z5sWYACAop&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)))
 
@@ -47,7 +47,9 @@ Jinpeng Chen, Runmin Cong, **Yuzhi Zhao<sup>*</sup>**, Hongzheng Yang, Guangneng
 
 - AI Agent, LLM/MLLM Applications
 
-Zixuan Zhu, Yitong Hu, Yong Dai, Junfeng Fang, Chunyang Jiang, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Unified Context Evolution for LLM Agents</font>. EMNLP, 2026
+Xiaolei Li, Jialun Cao, Zhijian Hou, **Yuzhi Zhao**, Yepang Liu, Shing-Chi Cheung. <font color='Navy'>GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment</font>. ASE, 2026
+
+Zixuan Zhu, Yitong Hu, Yong Dai, Junfeng Fang, Chunyang Jiang, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Unified Context Evolution for LLM Agents</font>. EMNLP, 2026 ([PDF](../files/2026-Unified-Context-Evolution-for-LLM-Agents.pdf))
 
 Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Pengfei Xian, Mengyang Wu, Jinpeng Chen, Wenao Ma, **Yuzhi Zhao<sup>*</sup>**, Shengchao Qin, Graziano Chesi, Ngai Wong. <font color='Navy'>KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation</font>. EMNLP, 2025 ([PDF](../files/2025-KG-RAG-Enhancing-GUI-Agent-Decision-Making-via-Knowledge-Graph-Driven-Retrieval-Augmented-Generation.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/KG-RAG-GUI-Agent)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.00366))
 
@@ -77,11 +79,11 @@ Li Kun, Lai Man Po, Hongzheng Yang, Xuyuan Xu, Kangcheng Liu, **Yuzhi Zhao<sup>*
 
 - Generative Models
 
-Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE Transactions on Image Processing, 2026 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/abstract/document/11489281))
+Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE Transactions on Image Processing, 2026 ([PDF](../files/2026-RSTFA-Efficient-Training-Free-Human-Preference-Alignment-via-Rejection-Sampling-for-Text-to-Image-Diffusion-Models.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/abstract/document/11489281))
 
 Wing-Yin Yu, Lai-Man Po, Ray C.C. Cheung, **Yuzhi Zhao**, Yu Xue, Kun Li. <font color='Navy'>Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer</font>. ICCV, 2023 ([PDF](../files/2023-Bidirectionally-Deformable-Motion-Modulation-For-Video-based-Human-Pose-Transfer.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/rocketappslab/bdmm)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/pdf/2307.07754.pdf))
 
-Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. IEEE Transactions on Image Processing, 2022 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9733197))
+Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. IEEE Transactions on Image Processing, 2022 ([PDF](../files/2022-ShaTure-Shape-and-Texture-Deformation-for-Human-Pose-and-Attribute-Transfer.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9733197))
 
 **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. IEEE Transactions on Multimedia, 2022 ([PDF](../files/2022-ChildPredictor-A-Child-Face-Prediction-Framework-with-Disentangled-Learning.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code/Dataset](https://github.com/zhaoyuzhi/ChildPredictor)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/document/9749880))
 
