@@ -6,6 +6,11 @@ author_profile: true
 
 {% include base_path %}
 
+**Area Chair**
+======
+
+CVPR 2027
+
 **Academic Reviewer**
 ======
 
