@@ -62,13 +62,13 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 **Conference** (<sup>*</sup>: corresponding author)
 ======
 
-Xiaolei Li, Jialun Cao, Zhijian Hou, **Yuzhi Zhao**, Yepang Liu, Shing-Chi Cheung. <font color='Navy'>GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment</font>. ASE, 2026
+Xiaolei Li, Jialun Cao, Zhijian Hou, **Yuzhi Zhao**, Yepang Liu, Shing-Chi Cheung. <font color='Navy'>GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment</font>. ASE, 2026 ([PDF](../files/2026-GraphDroid-Asynchronous-LLM-Based-Mobile-App-GUI-Testing-via-History-Aware-Exploration-and-Hybrid-Intent-Fulfillment.pdf))
 
 Xikai Yang, Hieu Trung Nguyen, Dunyuan Xu, **Yuzhi Zhao**, Jinpeng Li, Wenao Ma, Pheng-Ann Heng. <font color='Navy'>Noisy Test-Time Reinforcement Learning for Code LLMs</font>. EMNLP, 2026
 
 Zixuan Zhu, Yitong Hu, Yong Dai, Junfeng Fang, Chunyang Jiang, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Unified Context Evolution for LLM Agents</font>. EMNLP, 2026 ([PDF](../files/2026-Unified-Context-Evolution-for-LLM-Agents.pdf))
 
-Jiazhen Huang, Xiao Chen, Xiao Luo, Yong Dai, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Skill-Conditioned Gated Self-Distillation for LLM Reasoning</font>. Findings of EMNLP, 2026 ([PDF](../files/2026-Skill-Conditioned-Gated-Self-Distillation-for-LLM-Reasoning.pdf))
+Jiazhen Huang, Xiao Chen, Xiao Luo, Yong Dai, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Skill-Conditioned Gated Self-Distillation for LLM Reasoning</font>. Findings of EMNLP, 2026 ([PDF](../files/2026-Skill-Conditioned-Gated-Self-Distillation-for-LLM-Reasoning.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/walawalagoose/SGSD))
 
 Donglai Xu, Hongzheng Yang, **Yuzhi Zhao<sup>*</sup>**, Pingping Zhang, Jinpeng Chen, Wenao Ma, Zhijian Hou, Mengyang Wu, Xiaolei Li, Senkang Hu, Ziyi Guan, Jason Chun Lok Li, Lai-Man Po. <font color='Navy'>From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training</font>. CVPR, 2026 ([PDF](../files/2026-From-Exploration-to-Exploitation-A-Two-Stage-Entropy-RLVR-Approach-for-Noise-Tolerant-MLLM-Training.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/xudonglai0426/RLVR-from-Exploration-to-Exploitation)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.07738))
 
