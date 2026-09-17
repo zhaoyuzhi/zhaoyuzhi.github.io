@@ -24,7 +24,7 @@ Since December 2025, I have been a Researcher at ByteDance, working on GUI test 
 
 From April 2023 to December 2025, I was a Researcher at Huawei Hong Kong Research Center. I led a research group that built a unified MLLM for content moderation and an app-testing agent for the HarmonyOS ecosystem.
 
-Previously, I was a Student Researcher at Tencent from January to March 2023 and at [SenseTime](https://www.sensetime.com/cn) from November 2019 to May 2022. At SenseTime, I worked on joint denoising and deblurring, as well as hyperspectral image reconstruction.
+Previously, I was a Research Intern at Tencent from January to March 2023 and at [SenseTime](https://www.sensetime.com/cn) from November 2019 to May 2022. At SenseTime, I worked on joint denoising and deblurring, as well as hyperspectral image reconstruction.
 
 **Selected Publication**
 ======

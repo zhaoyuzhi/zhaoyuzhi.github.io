@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Journal](#journal) · [Conference](#conference)
+
 You can also find my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=OtoqVTIAAAAJ&hl=en).
 
 {% include base_path %}
@@ -13,8 +15,8 @@ You can also find my full publication list on my [Google Scholar profile](https:
   {% include archive-single.html %}
 {% endfor %}
 
-**Journal** (<sup>*</sup>: corresponding author)
-======
+## Journal (<sup>*</sup>: corresponding author)
+{: #journal}
 
 Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE Transactions on Image Processing, 2026 ([PDF](../files/2026-RSTFA-Efficient-Training-Free-Human-Preference-Alignment-via-Rejection-Sampling-for-Text-to-Image-Diffusion-Models.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/abstract/document/11489281))
 
@@ -44,8 +46,8 @@ Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, **Yuzh
 
 Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Face Liveness Detection using Convolutional-features Fusion of Real and Deep Network Generated Face Images</font>. Journal of Visual Communication and Image Representation, 2019 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://www.sciencedirect.com/science/article/pii/S1047320319300641?via%3Dihub))
 
-**Conference** (<sup>*</sup>: corresponding author)
-======
+## Conference (<sup>*</sup>: corresponding author)
+{: #conference}
 
 Xiaolei Li, Jialun Cao, Zhijian Hou, **Yuzhi Zhao**, Yepang Liu, Shing-Chi Cheung. <font color='Navy'>GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment</font>. ASE, 2026 ([PDF](../files/2026-GraphDroid-Asynchronous-LLM-Based-Mobile-App-GUI-Testing-via-History-Aware-Exploration-and-Hybrid-Intent-Fulfillment.pdf))
 

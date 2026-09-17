@@ -1,35 +1,37 @@
 ---
 layout: archive
+title: "中文简历"
 permalink: /cv_cn/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+[教育经历](#education) · [工作经历](#experience) · [期刊论文](#journal) · [会议论文](#conference) · [专利](#patents) · [荣誉](#awards)
+
 {% include base_path %}
 
-**教育经历**
-======
+## 教育经历
+{: #education}
 
 2018.09 - 2023.02, 工学博士（电子工程）, **香港城市大学** <br>
-(指导老师: [布礼文教授](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
+(指导老师: [布礼文教授](http://www.ee.cityu.edu.hk/~lmpo/))
 
-2014.09 - 2018.06, 工学学士（电子信息工程，启明实验班）, **华中科技大学** <br>
-(指导老师: [黑晓军教授](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
+2014.09 - 2018.06, 工学学士（电子信息工程，启明实验班）, **华中科技大学**
 
-**工作经历**
-======
+## 工作经历
+{: #experience}
 
 2025.12 - 至今, 大模型算法工程师, 字节跳动, 深圳
 
 2023.04 - 2025.12, 多模态大模型算法研究员, 华为香港研究所, 香港
 
-2023.01 - 2023.03, 学生研究员, 腾讯, 深圳
+2023.01 - 2023.03, 研究实习生, 腾讯, 深圳
 
-2019.11 - 2022.05, 学生研究员, 商汤科技, 深圳
+2019.11 - 2022.05, 研究实习生, 商汤科技, 深圳
 
-**期刊论文** (<sup>*</sup>: corresponding author)
-======
+## 期刊论文 (<sup>*</sup>: corresponding author)
+{: #journal}
 
 Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE Transactions on Image Processing, 2026 ([PDF](../files/2026-RSTFA-Efficient-Training-Free-Human-Preference-Alignment-via-Rejection-Sampling-for-Text-to-Image-Diffusion-Models.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/abstract/document/11489281))
 
@@ -59,8 +61,8 @@ Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, **Yuzh
 
 Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Face Liveness Detection using Convolutional-features Fusion of Real and Deep Network Generated Face Images</font>. Journal of Visual Communication and Image Representation, 2019 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://www.sciencedirect.com/science/article/pii/S1047320319300641?via%3Dihub))
 
-**会议论文** (<sup>*</sup>: corresponding author)
-======
+## 会议论文 (<sup>*</sup>: corresponding author)
+{: #conference}
 
 Xiaolei Li, Jialun Cao, Zhijian Hou, **Yuzhi Zhao**, Yepang Liu, Shing-Chi Cheung. <font color='Navy'>GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment</font>. ASE, 2026 ([PDF](../files/2026-GraphDroid-Asynchronous-LLM-Based-Mobile-App-GUI-Testing-via-History-Aware-Exploration-and-Hybrid-Intent-Fulfillment.pdf))
 
@@ -114,15 +116,15 @@ Wei Liu, Qiong Yan, **Yuzhi Zhao**. <font color='Navy'>Densely Self-guided Wavel
 
 **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. ICCV Workshops, 2019 ([PDF](../files/2019-Saliency-Map-aided-Generative-Adversarial-Network-for-RAW-to-RGB-Mapping.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/RAW2RGB-GAN)) ([Poster](https://github.com/zhaoyuzhi/RAW2RGB-GAN/blob/master/poster/poster.png)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022028))
 
-**专利**
-======
+## 专利
+{: #patents}
 
 **赵昱植**, 严琼. <font color='Navy'>图像去噪方法及装置、电子设备和存储介质</font>. CN Patent
 
 许泳哲, **赵昱植**, 杨定东, 严琼. <font color='Navy'>图片处理方法、装置、电子设备及存储介质</font>. CN Patent
 
-**荣誉**
-======
+## 荣誉
+{: #awards}
 
 港研人才发现奖, 华为香港研究所, 2025
 

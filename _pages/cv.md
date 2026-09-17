@@ -1,35 +1,36 @@
 ---
 layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+[Education](#education) · [Experience](#working-experiences) · [Journal](#journal) · [Conference](#conference) · [Patents](#patents) · [Awards](#honor-and-awards)
+
 {% include base_path %}
 
-**Education**
-======
+## Education
 
 2018.09 - 2023.02, Ph.D. in Electronic Engineering, **City University of Hong Kong** <br>
-&ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
+&ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/))
 
 2014.09 - 2018.06, B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology** <br>
-&ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
+&ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College)
 
-**Working Experiences**
-======
+## Working Experiences
 
 2025.12 - present, Researcher, ByteDance, Shenzhen
 
 2023.04 - 2025.12, Researcher, Huawei Hong Kong Research Center, Hong Kong
 
-2023.01 - 2023.03, Student Researcher, Tencent, Shenzhen
+2023.01 - 2023.03, Research Intern, Tencent, Shenzhen
 
-2019.11 - 2022.05, Student Researcher, SenseTime, Shenzhen
+2019.11 - 2022.05, Research Intern, SenseTime, Shenzhen
 
-**Journal** (<sup>*</sup>: corresponding author)
-======
+## Journal (<sup>*</sup>: corresponding author)
+{: #journal}
 
 Hongzheng Yang, Jason Chun-Lok Li, Li Kun, Wenao Ma, Mingjie Xu, **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po. <font color='Navy'>RSTFA: Efficient Training-Free Human Preference Alignment via Rejection Sampling for Text-to-Image Diffusion Models</font>. IEEE Transactions on Image Processing, 2026 ([PDF](../files/2026-RSTFA-Efficient-Training-Free-Human-Preference-Alignment-via-Rejection-Sampling-for-Text-to-Image-Diffusion-Models.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/abstract/document/11489281))
 
@@ -59,8 +60,8 @@ Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, **Yuzh
 
 Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Face Liveness Detection using Convolutional-features Fusion of Real and Deep Network Generated Face Images</font>. Journal of Visual Communication and Image Representation, 2019 (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://www.sciencedirect.com/science/article/pii/S1047320319300641?via%3Dihub))
 
-**Conference** (<sup>*</sup>: corresponding author)
-======
+## Conference (<sup>*</sup>: corresponding author)
+{: #conference}
 
 Xiaolei Li, Jialun Cao, Zhijian Hou, **Yuzhi Zhao**, Yepang Liu, Shing-Chi Cheung. <font color='Navy'>GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment</font>. ASE, 2026 ([PDF](../files/2026-GraphDroid-Asynchronous-LLM-Based-Mobile-App-GUI-Testing-via-History-Aware-Exploration-and-Hybrid-Intent-Fulfillment.pdf))
 
@@ -114,15 +115,13 @@ Wei Liu, Qiong Yan, **Yuzhi Zhao**. <font color='Navy'>Densely Self-guided Wavel
 
 **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. ICCV Workshops, 2019 ([PDF](../files/2019-Saliency-Map-aided-Generative-Adversarial-Network-for-RAW-to-RGB-Mapping.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/RAW2RGB-GAN)) ([Poster](https://github.com/zhaoyuzhi/RAW2RGB-GAN/blob/master/poster/poster.png)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022028))
 
-**Patents**
-======
+## Patents
 
 **Yuzhi Zhao**, Qiong Yan. <font color='Navy'>A mobile phone night denoising algorithm based on multi-scale convolutional neural network</font>. CN Patent
 
 Yongzhe Xu, **Yuzhi Zhao**, Qiong Yan, Dingdong Yang. <font color='Navy'>An image deblurring technology based on fusion of long- and short-exposure images</font>. CN Patent
 
-**Honor and Awards**
-======
+## Honor and Awards
 
 Talent Scout Award, Huawei Hong Kong Research Center, 2025
 

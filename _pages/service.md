@@ -1,20 +1,21 @@
 ---
 layout: archive
+title: "Service"
 permalink: /service/
 author_profile: true
 ---
 
+[Area Chair](#area-chair) · [Academic Reviewer](#academic-reviewer) · [Talks](#talks)
+
 {% include base_path %}
 
-**Area Chair**
-======
+## Area Chair
 
 CVPR 2027
 
-**Academic Reviewer**
-======
+## Academic Reviewer
 
-## International Conferences:
+### International Conferences:
 
 Computer Vision and Image Processing:
 
@@ -28,7 +29,7 @@ Machine Learning:
 
 - ICML, NeurIPS, ICLR, AAAI, etc.
 
-## International Journals:
+### International Journals:
 
 <ul>
 
@@ -62,8 +63,7 @@ Machine Learning:
 
 </ul>
 
-**Talks**
-======
+## Talks
 
 Applications and Future of Deep Learning in Image and Video Colorization, Baidu Inc., 2023.3 ([PDF]())
 
