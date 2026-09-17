@@ -15,23 +15,29 @@ Shenzhen, China
 **Short Bio**
 ======
 
-I received the Ph.D. degree in Electronic Engineering from [Department of Electronic Engineering](https://www.ee.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023 and the B.Eng. degree in Electronic and Information Engineering from [School of Electronic and Information Engineering](http://ei.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in June 2018. My research spans low-level vision restoration for intelligent mobile devices, multimodal understanding of content and user intent, GUI agent systems, and benchmark construction. My research interests include post-training for Multimodal Large Language Models (MLLMs), AI agents, computational photography, and generative models. I have published 18 papers as a first or corresponding author at international conferences and journals, and have more than 1,900 Google Scholar citations.
+I received my Ph.D. in Electronic Engineering from [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023, advised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), and my B.Eng. in Electronic and Information Engineering from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)) in June 2018.
 
-**Working Experiences**
+My research focuses on **multimodal large language models (MLLMs) and AI agents**, including post-training, visual understanding, GUI interaction, and benchmark development. My earlier work spans image restoration, computational photography, and generative models.
+
+I serve as an **[Area Chair for CVPR 2027]({{ '/service/#area-chair' | relative_url }})**. I have published **18 papers as a first or corresponding author**, and my work has received **over 1,900 citations** on [Google Scholar](https://scholar.google.com/citations?user=OtoqVTIAAAAJ&hl=en). Selected datasets, benchmarks, and open-source implementations are available on the [Resources]({{ '/resources/' | relative_url }}) page.
+
+**Work Experience**
 ======
+{: #working-experiences}
 
-Since December 2025, I have been a Researcher at ByteDance, working on GUI test agents that automate app testing from GUI operation knowledge.
+**ByteDance, Shenzhen (December 2025–present).** I am a Researcher developing GUI agents for automated app testing, using knowledge of app interactions to guide test execution.
 
-From April 2023 to December 2025, I was a Researcher at Huawei Hong Kong Research Center. I led a research group that built a unified MLLM for content moderation and an app-testing agent for the HarmonyOS ecosystem.
+**Huawei Hong Kong Research Center (April 2023–December 2025).** As a Researcher, I led a team developing a unified MLLM for content moderation and a GUI agent for testing HarmonyOS apps. I received the Star of Huawei HKRC award in 2024 and the Talent Scout Award in 2025.
 
-Previously, I was a Research Intern at Tencent from January to March 2023 and at [SenseTime](https://www.sensetime.com/cn) from November 2019 to May 2022. At SenseTime, I worked on joint denoising and deblurring, as well as hyperspectral image reconstruction.
+**Research internships.** I was a Research Intern at Tencent (January–March 2023) and [SenseTime](https://www.sensetime.com/cn) (November 2019–May 2022). At SenseTime, I worked on joint image denoising and deblurring, as well as hyperspectral image reconstruction.
 
-**Selected Publication**
+**Selected Publications**
 ======
+{: #selected-publication}
 
 <sup>*</sup>: corresponding author
 
-- LLM/MLLM Training (like RLVR or continual training)
+- LLM/MLLM Post-Training and Continual Learning
 
 Xikai Yang, Hieu Trung Nguyen, Dunyuan Xu, **Yuzhi Zhao**, Jinpeng Li, Wenao Ma, Pheng-Ann Heng. <font color='Navy'>Noisy Test-Time Reinforcement Learning for Code LLMs</font>. EMNLP, 2026
 
@@ -45,7 +51,7 @@ Hieu Trung Nguyen, Bao Nguyen, Wenao Ma, **Yuzhi Zhao**, Ruifeng She, Viet Anh N
 
 Jinpeng Chen, Runmin Cong, **Yuzhi Zhao<sup>*</sup>**, Hongzheng Yang, Guangneng Hu, Horace Ip, Sam Kwong. <font color='Navy'>SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning</font>. ICML, 2025 ([PDF](../files/2025-SEFE-Superficial-and-Essential-Forgetting-Eliminator-for-Multimodal-Continual-Instruction-Tuning.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/jinpeng0528/SEFE)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2505.02486v1))
 
-- AI Agent, LLM/MLLM Applications
+- AI Agents and LLM/MLLM Applications
 
 Xiaolei Li, Jialun Cao, Zhijian Hou, **Yuzhi Zhao**, Yepang Liu, Shing-Chi Cheung. <font color='Navy'>GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment</font>. ASE, 2026
 
@@ -63,7 +69,7 @@ Mingjie Xu, Jinpeng Chen, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Yue Qiu
 
 Li Kun, Lai Man Po, Hongzheng Yang, Xuyuan Xu, Kangcheng Liu, **Yuzhi Zhao<sup>*</sup>**. <font color='Navy'>AesBiasBench: Evaluating Bias and Alignment in Multimodal Language Models for Personalized Image Aesthetic Assessment</font>. EMNLP, 2025 ([PDF](../files/2025-AesBiasBench-Evaluating-Bias-and-Alignment-in-Multimodal-Language-Models-for-Personalized-Image-Aesthetic-Assessment.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.11620))
 
-- Low-level Vision and Computational Photography
+- Low-Level Vision and Computational Photography
 
 **Yuzhi Zhao<sup>*</sup>**, Lai-Man Po, Xin Ye, Yongzhe Xu, Qiong Yan. <font color='Navy'>Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring</font>. IEEE Transactions on Image Processing, 2024 ([PDF](../files/2024-Modeling-Dual-Exposure-Quad-Bayer-Patterns-for-Joint-Denoising-and-Deblurring.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/zhaoyuzhi/QRNet)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2412.07256))
 
