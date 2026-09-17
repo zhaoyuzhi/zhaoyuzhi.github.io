@@ -17,9 +17,7 @@ Shenzhen, China
 
 I received my Ph.D. in Electronic Engineering from [City University of Hong Kong](https://www.cityu.edu.hk/) in February 2023, advised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), and my B.Eng. in Electronic and Information Engineering from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) ([Qiming College](http://qiming.hust.edu.cn/)) in June 2018.
 
-My research focuses on **multimodal large language models (MLLMs) and AI agents**, including post-training, visual understanding, GUI interaction, and benchmark development. My earlier work spans image restoration, computational photography, and generative models.
-
-I serve as an **[Area Chair for CVPR 2027]({{ '/service/#area-chair' | relative_url }})**. I have published **18 papers as a first or corresponding author**, and my work has received **over 1,900 citations** on [Google Scholar](https://scholar.google.com/citations?user=OtoqVTIAAAAJ&hl=en). Selected datasets, benchmarks, and open-source implementations are available on the [Resources]({{ '/resources/' | relative_url }}) page.
+My research focuses on **multimodal large language models (MLLMs) and AI agents**, including post-training, visual understanding, GUI interaction, and benchmark development. My earlier work spans image restoration, computational photography, and generative models. I have published **18 papers as a first or corresponding author**, and my work has received **over 1,900 citations** on [Google Scholar](https://scholar.google.com/citations?user=OtoqVTIAAAAJ&hl=en). I will serve as an Area Chair for CVPR 2027.
 
 **Work Experience**
 ======
@@ -27,7 +25,7 @@ I serve as an **[Area Chair for CVPR 2027]({{ '/service/#area-chair' | relative_
 
 **ByteDance, Shenzhen (December 2025–present).** I am a Researcher developing GUI agents for automated app testing, using knowledge of app interactions to guide test execution.
 
-**Huawei Hong Kong Research Center (April 2023–December 2025).** As a Researcher, I led a team developing a unified MLLM for content moderation and a GUI agent for testing HarmonyOS apps. I received the Star of Huawei HKRC award in 2024 and the Talent Scout Award in 2025.
+**Huawei Hong Kong Research Center (April 2023–December 2025).** As a Researcher, I led a team developing a unified MLLM for content moderation and a GUI agent for testing HarmonyOS apps.
 
 **Research internships.** I was a Research Intern at Tencent (January–March 2023) and [SenseTime](https://www.sensetime.com/cn) (November 2019–May 2022). At SenseTime, I worked on joint image denoising and deblurring, as well as hyperspectral image reconstruction.
 
@@ -41,7 +39,7 @@ I serve as an **[Area Chair for CVPR 2027]({{ '/service/#area-chair' | relative_
 
 Xikai Yang, Hieu Trung Nguyen, Dunyuan Xu, **Yuzhi Zhao**, Jinpeng Li, Wenao Ma, Pheng-Ann Heng. <font color='Navy'>Noisy Test-Time Reinforcement Learning for Code LLMs</font>. EMNLP, 2026
 
-Jiazhen Huang, Xiao Chen, Xiao Luo, Yong Dai, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Skill-Conditioned Gated Self-Distillation for LLM Reasoning</font>. Findings of EMNLP, 2026 ([PDF](../files/2026-Skill-Conditioned-Gated-Self-Distillation-for-LLM-Reasoning.pdf))
+Jiazhen Huang, Xiao Chen, Xiao Luo, Yong Dai, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Skill-Conditioned Gated Self-Distillation for LLM Reasoning</font>. Findings of EMNLP, 2026 ([PDF](../files/2026-Skill-Conditioned-Gated-Self-Distillation-for-LLM-Reasoning.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/walawalagoose/SGSD))
 
 Donglai Xu, Hongzheng Yang, **Yuzhi Zhao<sup>*</sup>**, Pingping Zhang, Jinpeng Chen, Wenao Ma, Zhijian Hou, Mengyang Wu, Xiaolei Li, Senkang Hu, Ziyi Guan, Jason Chun Lok Li, Lai-Man Po. <font color='Navy'>From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training</font>. CVPR, 2026 ([PDF](../files/2026-From-Exploration-to-Exploitation-A-Two-Stage-Entropy-RLVR-Approach-for-Noise-Tolerant-MLLM-Training.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/xudonglai0426/RLVR-from-Exploration-to-Exploitation)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.07738))
 
@@ -53,7 +51,7 @@ Jinpeng Chen, Runmin Cong, **Yuzhi Zhao<sup>*</sup>**, Hongzheng Yang, Guangneng
 
 - AI Agents and LLM/MLLM Applications
 
-Xiaolei Li, Jialun Cao, Zhijian Hou, **Yuzhi Zhao**, Yepang Liu, Shing-Chi Cheung. <font color='Navy'>GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment</font>. ASE, 2026
+Xiaolei Li, Jialun Cao, Zhijian Hou, **Yuzhi Zhao**, Yepang Liu, Shing-Chi Cheung. <font color='Navy'>GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment</font>. ASE, 2026 ([PDF](../files/2026-GraphDroid-Asynchronous-LLM-Based-Mobile-App-GUI-Testing-via-History-Aware-Exploration-and-Hybrid-Intent-Fulfillment.pdf))
 
 Zixuan Zhu, Yitong Hu, Yong Dai, Junfeng Fang, Chunyang Jiang, Senkang Hu, **Yuzhi Zhao**. <font color='Navy'>Unified Context Evolution for LLM Agents</font>. EMNLP, 2026 ([PDF](../files/2026-Unified-Context-Evolution-for-LLM-Agents.pdf))
 
@@ -65,7 +63,7 @@ Mingjie Xu, Mengyang Wu, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Weifeng 
 
 - LLM/MLLM Benchmarks
 
-Mingjie Xu, Jinpeng Chen, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Yue Qiu, Zekang Du, Mengyang Wu, Pingping Zhang, Kun Li, Hongzheng Yang, Wenao Ma, Jiaheng Wei, Qinbin Li, Kangcheng Liu, Wenqiang Lei. <font color='Navy'>VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models</font>. AAAI, 2026 ([PDF](../files/2026-VP-Bench-A-Comprehensive-Benchmark-for-Visual-Prompting-in-Multimodal-Large-Language-Models.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.11438))
+Mingjie Xu, Jinpeng Chen, **Yuzhi Zhao<sup>*</sup>**, Jason Chun Lok Li, Yue Qiu, Zekang Du, Mengyang Wu, Pingping Zhang, Kun Li, Hongzheng Yang, Wenao Ma, Jiaheng Wei, Qinbin Li, Kangcheng Liu, Wenqiang Lei. <font color='Navy'>VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models</font>. AAAI, 2026 ([PDF](../files/2026-VP-Bench-A-Comprehensive-Benchmark-for-Visual-Prompting-in-Multimodal-Large-Language-Models.pdf)) (<img src="../images/github_icon.png" width="20" height="20" hspace="5">[Code](https://github.com/Endlinc/VP-Bench)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2511.11438))
 
 Li Kun, Lai Man Po, Hongzheng Yang, Xuyuan Xu, Kangcheng Liu, **Yuzhi Zhao<sup>*</sup>**. <font color='Navy'>AesBiasBench: Evaluating Bias and Alignment in Multimodal Language Models for Personalized Image Aesthetic Assessment</font>. EMNLP, 2025 ([PDF](../files/2025-AesBiasBench-Evaluating-Bias-and-Alignment-in-Multimodal-Language-Models-for-Personalized-Image-Aesthetic-Assessment.pdf)) (<img src="../images/pdf_icon.png" width="20" height="20" hspace="5">[URL](https://arxiv.org/abs/2509.11620))
 
